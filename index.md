@@ -35,10 +35,10 @@ layout: default
 }
 </style>
 <div class="topnav">
-  <a class="active" href="index.md">Home</a>
-  <a href="research.md">Research</a>
-  <a href="pub_conf.md">Publications and Conferences</a>
-  <a href="teaching.md">Teaching</a>
+  <a class="active" href="index.html">Home</a>
+  <a href="research.html">Research</a>
+  <a href="pub_conf.html">Publications and Conferences</a>
+  <a href="teaching.html">Teaching</a>
 </div>
 <br>
 
