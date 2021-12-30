@@ -66,7 +66,7 @@ layout: default
 
 ## You can find me at ...
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.712260357591!2d80.22853715033308!3d12.99024669079881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fc2aa5e79%3A0x803f6dd62d082508!2sMechanical%20Sciences%20Block!5e0!3m2!1sen!2sin!4v1640867815849!5m2!1sen!2sin" width="200" height="150" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.712260357591!2d80.22853715033308!3d12.99024669079881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fc2aa5e79%3A0x803f6dd62d082508!2sMechanical%20Sciences%20Block!5e0!3m2!1sen!2sin!4v1640867815849!5m2!1sen!2sin" width="200" height="200" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"></iframe>
 
 ***Links.*** [Google Scholar], [Github], [LinkedIn].
 
