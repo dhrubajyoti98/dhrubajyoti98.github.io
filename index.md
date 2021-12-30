@@ -6,7 +6,8 @@ layout: default
 
 # Dhrubajyoti Biswas
 
-![](dp.jpeg)
+<img src="dp.jpeg" alt="drawing" width="200"/>
+
 ### Hey guys,
 
  I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of complex networks and dynamical systems. I am also quite interested in applications of High Performance Computing (HPC) in physics simulations.
