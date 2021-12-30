@@ -74,17 +74,6 @@ layout: default
 
 ***Office Address.*** MSB 108, Mechanical Sciences Block, Indian Institute of Technology Madras, Chennai 600036.
 
-<style>
-footer {
-  text-align: center;
-  padding: 0px;
-  background-color: #333;
-  color: white;
-}
-</style>
-<footer>
-  <p>Last updated on 30/12/2021 </p>
-</footer>
 
 [Google Scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
 [Github]: https://github.com/dhrubajyoti98
