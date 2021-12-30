@@ -8,3 +8,8 @@ Hi, I am Dhrubajyoti, and I am currently a PhD scholar at the Department of Phys
 
 ## Education
 
+| Year | Details |
+| --- | --- |
+| 2019 - now | PhD in Physics, IIT Madras |
+| 2017 - 2019 | MSc in Physics, IIT Madras |
+| 2014 - 2017 | BSc in Physics, St. Xavier's College Kolkata |
