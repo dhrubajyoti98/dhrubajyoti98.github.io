@@ -63,14 +63,16 @@ layout: default
 
 - My complete academic C.V is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
 
+
 ## You can find me at ...
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.37403362355212!2d80.23073415960384!3d12.990137933031404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fdd5640e7%3A0xc2bfc3612b0ab9b5!2sMechanical%20Sciences%20Block%2C%20Alumni%20Ave%2C%20Indian%20Institute%20Of%20Technology%2C%20Chennai%2C%20Tamil%20Nadu%20600036!5e0!3m2!1sen!2sin!4v1640866178337!5m2!1sen!2sin" width="200" height="200" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"></iframe>
 
 ***Links.*** [Google Scholar], [Github], [LinkedIn].
 
 ***Email IDs.*** dhrubajyoti98 [at] gmail.com (personal), smail.iitm.ac.in/physics.iitm.ac.in (work).
 
 ***Office Address.*** MSB 108, Mechanical Sciences Block, Indian Institute of Technology Madras, Chennai 600036.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.37403362355212!2d80.23073415960384!3d12.990137933031404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fdd5640e7%3A0xc2bfc3612b0ab9b5!2sMechanical%20Sciences%20Block%2C%20Alumni%20Ave%2C%20Indian%20Institute%20Of%20Technology%2C%20Chennai%2C%20Tamil%20Nadu%20600036!5e0!3m2!1sen!2sin!4v1640866178337!5m2!1sen!2sin" width="200" height="200" style="float: right; border:1;" allowfullscreen="" loading="lazy"></iframe>
 
 [Google Scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
 [Github]: https://github.com/dhrubajyoti98
