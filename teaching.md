@@ -40,4 +40,8 @@ theme: default
 </div>
 <br>
 
-## Page Under Construction
+### Teaching Assistant@IIT Madras
+
+PH1010 Introductory physics course for UGs.
+PH1030 Physics Lab for UGs.
+PH5500 Dynamical Systems.
