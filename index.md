@@ -23,7 +23,7 @@ layout: default
 | 2017 - 2019 | M.Sc in Physics, IIT Madras |
 | 2014 - 2017 | B.Sc in Physics, St. Xavier's College Kolkata, University of Calcutta |
 
-- Find my complete academic C.V. [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
+- My complete academic C.V is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
 
 ## Contacts and Links
 
