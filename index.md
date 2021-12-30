@@ -19,9 +19,9 @@ layout: default
 
 | Year | Details |
 | --- | --- |
-| 2019 - now | Ph.D in Physics, IIT Madras  <img style="float: right;" src="img/iitm.png" alt="dp" width="70" height="70"/> |
-| 2017 - 2019 | M.Sc in Physics, IIT Madras <img style="float: right;" src="img/iitm.png" alt="dp" width="70" height="70"/> |
-| 2014 - 2017 | B.Sc in Physics, St. Xavier's College Kolkata, University of Calcutta <img style="float: right;" src="img/sxc.png" alt="dp" width="70" height="85"/>|
+| 2019 - now | Ph.D in Physics, IIT Madras  <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
+| 2017 - 2019 | M.Sc in Physics, IIT Madras <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
+| 2014 - 2017 | B.Sc in Physics, St. Xavier's College Kolkata, University of Calcutta <img style="float: right;" src="img/sxc.png" alt="dp" width="50" height="60"/>|
 
 - My complete academic C.V is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
 
