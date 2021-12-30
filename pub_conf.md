@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Publications and Conferences
+theme: default
 ---
 
 ## Welcome to another page

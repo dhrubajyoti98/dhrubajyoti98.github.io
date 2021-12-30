@@ -1,0 +1,4 @@
+---
+title: Teaching
+theme: default
+---
