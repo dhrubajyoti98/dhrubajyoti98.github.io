@@ -6,7 +6,7 @@ layout: default
 
 # Dhrubajyoti Biswas
 
-<img style="float: left; padding-right: 20px;" src="dp.jpeg" alt="dp" width="150"/>
+<img style="float: left; padding-right: 20px; padding-bottom: 20px;" src="dp.jpeg" alt="dp" width="150"/>
 
 ### Hey guys,
 
