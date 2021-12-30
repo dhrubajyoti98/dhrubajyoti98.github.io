@@ -1,5 +1,7 @@
-# Publications data
+---
+layout: default
+---
 
-## 1
+## Welcome to another page
 
-## 2
+_yay_
