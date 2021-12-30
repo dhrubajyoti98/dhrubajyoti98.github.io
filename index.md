@@ -66,7 +66,7 @@ layout: default
 
 ## You can find me at ...
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.37403362355212!2d80.23073415960384!3d12.990137933031404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fdd5640e7%3A0xc2bfc3612b0ab9b5!2sMechanical%20Sciences%20Block%2C%20Alumni%20Ave%2C%20Indian%20Institute%20Of%20Technology%2C%20Chennai%2C%20Tamil%20Nadu%20600036!5e0!3m2!1sen!2sin!4v1640866178337!5m2!1sen!2sin" width="200" height="200" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.37403362355212!2d80.23073415960384!3d12.990137933031404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52677fdd5640e7%3A0xc2bfc3612b0ab9b5!2sMechanical%20Sciences%20Block%2C%20Alumni%20Ave%2C%20Indian%20Institute%20Of%20Technology%2C%20Chennai%2C%20Tamil%20Nadu%20600036!5e0!3m2!1sen!2sin!4v1640866178337!5m2!1sen!2sin" width="200" height="150" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"></iframe>
 
 ***Links.*** [Google Scholar], [Github], [LinkedIn].
 
