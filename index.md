@@ -2,7 +2,6 @@
 title: "Dhrubajyoti Biswas"
 permalink: /
 layout: default
-<script src="https://kit.fontawesome.com/af1b5616dc.js" crossorigin="anonymous"></script>
 ---
 
 # Dhrubajyoti Biswas
@@ -29,5 +28,3 @@ layout: default
 
 **Email**: dhrubajyoti98 [at] gmail.com (personal), smail.iitm.ac.in/physics.iitm.ac.in (work).
 
-
-<i class="fas fa-thumbs-up fa-5x"></i>
