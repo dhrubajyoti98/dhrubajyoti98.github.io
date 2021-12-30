@@ -4,13 +4,50 @@ permalink: /
 layout: default
 ---
 
+<style>
+    
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
 # Dhrubajyoti Biswas
 
 <img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="img/dp.jpeg" alt="dp" width="185"/>
 
 ### Hey guys,
 
- I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of *complex networks* and *dynamical systems*. I am also quite interested in applications of *High Performance Computing (HPC) in physics simulations*.
+ I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of *complex networks* and *dynamical systems*. I am also quite interested in applications of *High Performance Computing (HPC)* and *parallel computing* in physics simulations.
 
  I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [Instagram] and [Youtube]). I also play cricket from time to time.
 
