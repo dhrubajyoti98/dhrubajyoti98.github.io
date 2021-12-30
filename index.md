@@ -5,9 +5,11 @@ layout: default
 <script src="https://kit.fontawesome.com/af1b5616dc.js" crossorigin="anonymous"></script>
 ---
 
+# Dhrubajyoti Biswas
+
 ## Biography
 
-### Hello guys,
+### Hello guys
 
  I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of complex networks and dynamical systems. I am also quite interested in applications of High Performance Computing (HPC) in physics simulations.
 
@@ -26,5 +28,6 @@ layout: default
 ## Contacts and Links
 
 **Email**: dhrubajyoti98 [at] gmail.com (personal), smail.iitm.ac.in/physics.iitm.ac.in (work).
+
 
 <i class="fas fa-thumbs-up fa-5x"></i>
