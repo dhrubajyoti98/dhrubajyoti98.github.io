@@ -70,7 +70,10 @@ I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-***Links.*** [<i class="fa fa-google fa-lg"></i>-scholar], [<i class="fa fa-github fa-lg"></i>] and [<i class="fa fa-linkedin fa-lg"></i>].
+***Links.*** 
+- [<i class="fa fa-google fa-lg"></i>-scholar] 
+- [<i class="fa fa-git fa-lg"></i>hub] 
+- [Linked<i class="fa fa-linkedin fa-lg"></i>].
 
 ***Email IDs.*** dhrubajyoti98 [at] [gmail.com (personal email), smail.iitm.ac.in / physics.iitm.ac.in (IITM - work emails)].
 
@@ -78,9 +81,9 @@ I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place
 
 [<i class="fa fa-google fa-lg"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
 
-[<i class="fa fa-github fa-lg"></i>]: https://github.com/dhrubajyoti98
+[<i class="fa fa-git fa-lg"></i>hub]: https://github.com/dhrubajyoti98
 
-[<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/dhrubajyoti-biswas/
+[Linked<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/dhrubajyoti-biswas/
 
 [<i class="fa fa-instagram fa-lg"></i>]: https://www.instagram.com/pushhu/
 
