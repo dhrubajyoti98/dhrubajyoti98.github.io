@@ -41,8 +41,9 @@ theme: default
 </div>
 <br>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-### Journal Publications
+### Journal Publications ([<i class="fa fa-google fa-1x"></i>-scholar])
 
 - Biswas, D., Gupta, S., (2021). Ageing Transitions in a Network of Rulkov Neurons. Scientific Reports [**Accepted**, In Press]
 - Biswas, D., Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. https://doi.org/10.1142/s0218127420500182
@@ -57,3 +58,6 @@ theme: default
 
 - Bangalore School of Statistical Physics 2020; ICTS Bangalore.
 - ACM Winter School on HPC 2019; IIT Kanpur.
+
+
+[<i class="fa fa-google fa-1x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
