@@ -50,7 +50,7 @@ layout: default
 
 I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of *complex networks* and *dynamical systems*. I am also quite interested in applications of *High Performance Computing (HPC)* and *parallel computing* using APIs like OpenMP, OpenACC etc., in physics simulations.
 
-I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-1x"></i>] and [<i class="fa fa-youtube fa-1x"></i>]). I also play cricket from time to time.
+I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-2x"></i>] and [<i class="fa fa-youtube fa-2x"></i>]). I also play cricket from time to time.
 
  
 ## Education
@@ -70,18 +70,18 @@ I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-***Links.*** [<i class="fa fa-google fa-1x"></i>-scholar], [<i class="fa fa-github fa-1x"></i>] and [<i class="fa fa-linkedin fa-1x"></i>].
+***Links.*** [<i class="fa fa-google fa-2x"></i>-scholar], [<i class="fa fa-github fa-2x"></i>] and [<i class="fa fa-linkedin fa-2x"></i>].
 
 ***Email IDs.*** dhrubajyoti98 [at] [gmail.com (personal email), smail.iitm.ac.in / physics.iitm.ac.in (IITM - work emails)].
 
 ***Office Address.*** MSB 108, Mechanical Sciences Block, Indian Institute of Technology Madras, Chennai 600036.
 
-[<i class="fa fa-google fa-1x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
+[<i class="fa fa-google fa-2x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
 
-[<i class="fa fa-github fa-1x"></i>]: https://github.com/dhrubajyoti98
+[<i class="fa fa-github fa-2x"></i>]: https://github.com/dhrubajyoti98
 
-[<i class="fa fa-linkedin fa-1x"></i>]: https://www.linkedin.com/in/dhrubajyoti-biswas/
+[<i class="fa fa-linkedin fa-2x"></i>]: https://www.linkedin.com/in/dhrubajyoti-biswas/
 
-[<i class="fa fa-instagram fa-1x"></i>]: https://www.instagram.com/pushhu/
+[<i class="fa fa-instagram fa-2x"></i>]: https://www.instagram.com/pushhu/
 
-[<i class="fa fa-youtube fa-1x"></i>]: https://www.youtube.com/c/DhrubajyotiBiswas2k14
+[<i class="fa fa-youtube fa-2x"></i>]: https://www.youtube.com/c/DhrubajyotiBiswas2k14
