@@ -37,6 +37,7 @@ theme: default
   <a class="active" href="research.html">Research</a>
   <a href="pub_conf.html">Publications & Conferences</a>
   <a href="teaching.html">Teaching</a>
+  <a href="resources.html">Resources</a>
 </div>
 <br>
 
