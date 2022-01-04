@@ -41,7 +41,7 @@ theme: default
 </div>
 <br>
 
-## Some Useful Stuff
+### Some Useful Stuff
 
 - If you want to learn shared-memory parallelism using OpenMP, Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"] is one of the best introductory-level resources available.
 
