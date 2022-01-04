@@ -40,3 +40,9 @@ theme: default
   <a class="active" href="resources.html">Resources</a>
 </div>
 <br>
+
+## Some Useful Stuff
+
+- If you want to learn shared-memory parallelism using OpenMP, Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"] is one of the best introductory-level resources available.
+
+["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
