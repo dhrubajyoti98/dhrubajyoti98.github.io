@@ -3,6 +3,7 @@ title: "Dhrubajyoti Biswas"
 permalink: /
 layout: default
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
     
