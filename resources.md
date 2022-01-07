@@ -43,6 +43,9 @@ theme: default
 
 ### Some Useful Stuff
 
+- I am developing a benchmark suite for workstations. See [here] for more details and also if you would like to contribute, let me know.
+
 - If you want to learn shared-memory parallelism using OpenMP, Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"] is one of the best introductory-level resources available.
 
-["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
+["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
+[here]: https://github.com/dhrubajyoti98/HPPWB
