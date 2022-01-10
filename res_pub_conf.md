@@ -1,5 +1,5 @@
 ---
-title: Publications and Conferences
+title: Research Stuff
 theme: default
 ---
 
@@ -45,18 +45,25 @@ theme: default
 
 ## Research Interests
 
+- Characterizing High-dimensional dynamical systems.
+- Dynamics of Complex Networks.
+
+---
+
 ## Research Output
 
-### Journal Publications ([<i class="fa fa-google fa-1x"></i>-scholar])
+### &rarr; Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
+- *Hoping to add more soon ... !*
 - Biswas, D., Gupta, S., (2021). Ageing Transitions in a Network of Rulkov Neurons. Scientific Reports [**Accepted**, In Press]
 - Biswas, D., Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
-### Conferences 
+### &rarr; Conferences 
 
-- Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation.
-- Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation.
+- Conference on Complex Systems (CCS) 2021, Lyon, France; *Contribution: Oral presentation*.
+- Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; *Contribution: Poster presentation*.
 
+---
 
 ## Workshops and Training Schools
 
