@@ -8,6 +8,8 @@ theme: default
 .topnav {
   background-color: #333;
   overflow: hidden;
+  display:flex;
+  justify-content:center;
 }
 
 /* Style the links inside the navigation bar */
@@ -33,10 +35,12 @@ theme: default
 }
 </style>
 <div class="topnav">
+<div>
   <a href="index.html">Home</a>
   <a href="res_pub_conf.html">Research Stuff</a>
   <a class="active" href="teaching.html">Teaching</a>
   <a href="resources.html">Resources</a>
+</div>
 </div>
 <br>
 

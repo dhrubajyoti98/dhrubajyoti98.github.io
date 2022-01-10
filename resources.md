@@ -8,6 +8,8 @@ theme: default
 .topnav {
   background-color: #333;
   overflow: hidden;
+  display:flex;
+  justify-content:center;
 }
 
 /* Style the links inside the navigation bar */
