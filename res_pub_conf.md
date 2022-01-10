@@ -45,6 +45,8 @@ theme: default
 
 ## Research Interests
 
+I am intrigued by all domains of the physical and mathematical sciences, but I am especially interested in the following:
+
 - Characterizing High-dimensional dynamical systems.
 - Dynamics of Complex Networks.
 
@@ -54,7 +56,7 @@ theme: default
 
 ### &rarr; Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
-- *Hoping to add more soon ... !*
+- *Hoping to add more soon ...* !
 - Biswas, D., Gupta, S., (2021). Ageing Transitions in a Network of Rulkov Neurons. Scientific Reports [**Accepted**, In Press]
 - Biswas, D., Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
