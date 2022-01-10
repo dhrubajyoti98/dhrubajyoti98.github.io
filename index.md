@@ -14,7 +14,7 @@ layout: default
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: center;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
