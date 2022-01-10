@@ -34,8 +34,7 @@ theme: default
 </style>
 <div class="topnav">
   <a href="index.html">Home</a>
-  <a href="research.html">Research</a>
-  <a href="pub_conf.html">Publications & Conferences</a>
+  <a href="res_pub_conf.html">Research Stuff</a>
   <a class="active" href="teaching.html">Teaching</a>
   <a href="resources.html">Resources</a>
 </div>

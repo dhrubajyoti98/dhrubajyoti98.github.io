@@ -35,14 +35,17 @@ theme: default
 </style>
 <div class="topnav">
   <a href="index.html">Home</a>
-  <a href="research.html">Research</a>
-  <a class="active" href="pub_conf.html">Publications & Conferences</a>
+  <a class="active" href="res_pub_conf.html">Research Stuff</a>
   <a href="teaching.html">Teaching</a>
   <a href="resources.html">Resources</a>
 </div>
 <br>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+## Research Interests
+
+## Research Output
 
 ### Journal Publications ([<i class="fa fa-google fa-1x"></i>-scholar])
 
@@ -55,7 +58,7 @@ theme: default
 - Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation.
 
 
-### Workshops and Training Schools
+## Workshops and Training Schools
 
 - Bangalore School of Statistical Physics 2020; ICTS Bangalore.
 - ACM Winter School on HPC 2019; IIT Kanpur.
