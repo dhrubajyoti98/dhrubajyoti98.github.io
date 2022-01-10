@@ -62,7 +62,7 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
   
 ### &rarr; Conferences 
 
-- Conference on Complex Systems (CCS) 2021, Lyon, France; *Contribution: Oral presentation*.
+- Conference on Complex Systems (CCS) 2021, Lyon, France; *Contribution: Oral presentation*. [[Video](https://youtu.be/mEFnagnaJ8o)]
 - Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; *Contribution: Poster presentation*.
 
 ---
