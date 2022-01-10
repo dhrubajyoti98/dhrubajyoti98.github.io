@@ -57,7 +57,7 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 ### &rarr; Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
 - *Hoping to add more soon ...* !
-- Biswas, D., Gupta, S., (2021). Ageing Transitions in a Network of Rulkov Neurons. Scientific Reports [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
+- Biswas, D., Gupta, S. Ageing transitions in a network of Rulkov neurons. Sci Rep 12, 433 (2022). [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
 - Biswas, D., Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
 ### &rarr; Conferences 
