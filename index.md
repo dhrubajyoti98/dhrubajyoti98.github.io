@@ -50,6 +50,7 @@ I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physic
 
 I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-lg"></i>] and [<i class="fa fa-youtube fa-lg"></i>]). I also play cricket from time to time.
 
+---
  
 ## Education
 
@@ -61,6 +62,7 @@ I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place
 
 - My complete academic CV is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
 
+---
 
 ## You can find me at ...
 
