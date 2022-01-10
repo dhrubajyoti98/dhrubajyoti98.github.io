@@ -28,7 +28,7 @@ theme: default
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #c4000a;
   color: white;
 }
 </style>
