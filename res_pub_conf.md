@@ -47,6 +47,8 @@ theme: default
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+> "My powers are ordinary. Only my application brings me success" - Isaac Newton.
+
 ## Research Interests
 
 I am intrigued by all domains of the physical and mathematical sciences, but I am especially interested in the following:

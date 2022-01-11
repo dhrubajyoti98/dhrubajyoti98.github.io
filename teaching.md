@@ -44,6 +44,8 @@ theme: default
 </div>
 <br>
 
+> “Now I am become Death, the destroyer of worlds” - Robert Oppenheimer
+
 ### Teaching Assistant@IIT Madras
 
 - PH1010 Introductory physics course for UGs.
