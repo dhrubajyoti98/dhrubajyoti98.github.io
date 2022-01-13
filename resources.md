@@ -35,10 +35,12 @@ theme: default
 }
 </style>
 <div class="topnav">
+<div>
   <a href="index.html">Home</a>
   <a href="res_pub_conf.html">Research Stuff</a>
   <a href="teaching.html">Teaching</a>
   <a class="active" href="resources.html">Resources</a>
+</div>
 </div>
 <br>
 
