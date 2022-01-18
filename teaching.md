@@ -44,7 +44,7 @@ theme: default
 </div>
 <br>
 
-> “Now I am become Death, the destroyer of worlds” - Robert Oppenheimer
+> "Curiosity is the key to problem solving." - Galileo Galilei
 
 ### Teaching Assistant@IIT Madras
 
