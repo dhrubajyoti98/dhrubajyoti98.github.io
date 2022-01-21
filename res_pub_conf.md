@@ -38,7 +38,7 @@ theme: default
 <div class="topnav">
 <div>
   <a href="index.html">Home</a>
-  <a class="active" href="res_pub_conf.html">Research Stuff</a>
+  <a class="active" href="res_pub_conf.html">Research</a>
   <a href="teaching.html">Teaching</a>
   <a href="resources.html">Resources</a>
 </div>
@@ -75,8 +75,9 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 
 ## Workshops and Training Schools
 
-- Bangalore School of Statistical Physics 2020; ICTS Bangalore.
-- ACM Winter School on HPC 2019; IIT Kanpur.
+- [NSM Course: GPU Programming with OpenACC 2020](https://www.cse.iitm.ac.in/~rupesh/events/openacc2022/); IIT Madras.
+- [Bangalore School of Statistical Physics 2020](https://www.icts.res.in/program/bssp2020); ICTS Bangalore.
+- [ACM Winter School on HPC 2019](https://cse.iitk.ac.in/users/pmalakar/acmwshpc2019.html); IIT Kanpur.
 
 
 [<i class="fa fa-google fa-1x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
