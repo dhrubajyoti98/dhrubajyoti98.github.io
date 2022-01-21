@@ -46,7 +46,7 @@ theme: default
 
 > "Curiosity is the key to problem solving." - Galileo Galilei
 
-### Teaching Assistant@IIT Madras
+### Teaching Assistant at IIT Madras
 
 - PH1010 Introductory physics course for UGs.
 - PH1030 Physics Lab for UGs.
