@@ -1,5 +1,5 @@
 ---
-title: Research Stuff
+title: Research
 theme: default
 ---
 
