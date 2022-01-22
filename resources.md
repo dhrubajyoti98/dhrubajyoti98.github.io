@@ -46,7 +46,7 @@ theme: default
 
 > “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman
 
-### Some Useful Stuff
+- [Random stuff I find extremely interesting and/or useful.](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)
 
 - I am developing a benchmark suite for workstations. See [here] for more details and also if you would like to contribute, let me know.
 
