@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Resources
 theme: default
 ---
 <style>
