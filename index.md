@@ -2,9 +2,6 @@
 title: "Dhrubajyoti Biswas"
 permalink: /
 layout: default
-<link rel="icon" 
-      type="image/png" 
-      href="img/db.png">
 ---
 
 <style>
