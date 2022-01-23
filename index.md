@@ -35,6 +35,7 @@ layout: default
   background-color: #c4000a;
   color: white;
 }
+
 </style>
 <div class="topnav">
 <div>
