@@ -46,8 +46,10 @@ theme: default
 
 > “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman
 
-- [Random stuff I find extremely interesting and/or useful.](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)
+- [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 
+- A very important C/C++ library which will be very useful for numerical methods in physics and engineering is the [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html).
+  
 - I am developing a benchmark suite for workstations. See [here] for more details and also if you would like to contribute, let me know.
 
 - If you want to learn shared-memory parallelism using OpenMP, Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"] is one of the best introductory-level resources available.
