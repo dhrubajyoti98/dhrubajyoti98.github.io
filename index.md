@@ -1,5 +1,5 @@
 ---
-title: "Dhrubajyoti Biswas"
+title: "Home"
 permalink: /
 layout: default
 ---
