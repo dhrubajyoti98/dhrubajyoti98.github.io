@@ -48,7 +48,7 @@ theme: default
 
 - [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 
-- A very important C/C++ library which will be very useful for numerical methods in physics and engineering is the [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html).
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html) - a very important C/C++ library which will be very useful for numerical methods in physics and engineering.
   
 - I am developing a benchmark suite for workstations. See [here] for more details and also if you would like to contribute, let me know.
 
