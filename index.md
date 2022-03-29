@@ -55,7 +55,7 @@ layout: default
 
 I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of *complex networks* and *dynamical systems*. I am also quite interested in learning about applications of *high performance computing* and *parallel computing* using APIs like OpenMP, OpenACC etc., in physics simulations.
 
-I currently stay on campus at IIT Madras in Bhadra Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-lg"></i>] and [<i class="fa fa-youtube fa-lg"></i>]). I also play cricket from time to time.
+I currently stay on campus at IIT Madras in Tamiraparani Hostel, while my native place is back in the town of [Kalyani](https://en.wikipedia.org/wiki/Kalyani,_West_Bengal), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-lg"></i>] and [<i class="fa fa-youtube fa-lg"></i>]). I also play cricket from time to time.
 
  
 ## Education
