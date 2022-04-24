@@ -53,8 +53,10 @@ theme: default
 
 I am intrigued by all domains of the physical and mathematical sciences, but I am especially interested in the following:
 
-- Characterizing High-dimensional dynamical systems.
-- Dynamics of Complex Networks.
+- Characterizing high-dimensional dynamical systems.
+- Studying various phenomena in complex-networked dynamical systems.
+
+I am also interested in exploring the applications of high performance computing in various physics simulations.
 
 ---
 
