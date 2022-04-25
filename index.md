@@ -51,7 +51,7 @@ layout: default
 
 <img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="img/dp.jpeg" alt="dp" width="185"/>
 
-<p style="color: blue;">Hey,</p>
+### Hey
 
 I am Dhrubajyoti, and I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Dr. Vaibhav Madhok](https://sites.google.com/view/madhok) and [Dr. Sayan Gupta](https://home.iitm.ac.in/sayan/). My interests are in the area of *complex networks* and *high-dimensional dynamical systems*. I am also quite interested in learning about applications of *high performance computing* and *parallel computing* using APIs like OpenMP, OpenACC etc., in physics simulations.
 
@@ -64,7 +64,7 @@ I currently stay on campus at IIT Madras in Tamiraparani Hostel, while my native
 | 2017 - now | M.Sc (2017-2019) & Ph.D. (2019-now) in Physics, IIT Madras. <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
 | 2014 - 2017 | B.Sc with Physics (Hons.), St. Xavier's College Kolkata, University of Calcutta. <img style="float: right;" src="img/sxc.svg" alt="dp" width="50" height="60"/>|
 
-- My CV is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
+> My CV is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
 
 ### You can find me at ...
 
