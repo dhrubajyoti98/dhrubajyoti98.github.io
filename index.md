@@ -64,7 +64,7 @@ I currently stay on campus at IIT Madras in Tamiraparani Hostel, while my native
 | 2017 - now | M.Sc (2017-2019) & Ph.D. (2019-now) in Physics, IIT Madras. <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
 | 2014 - 2017 | B.Sc with Physics (Hons.), St. Xavier's College Kolkata, University of Calcutta. <img style="float: right;" src="img/sxc.svg" alt="dp" width="50" height="60"/>|
 
-> My CV is available [here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing).
+> <div align="center"> <p> My CV is available <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing)">here</a>.</p></div>
 
 ### You can find me at ...
 
