@@ -47,7 +47,7 @@ theme: default
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-> "My powers are ordinary. Only my application brings me success" - Isaac Newton.
+> <div align="center"> <p> "My powers are ordinary. Only my application brings me success" - Isaac Newton </p> </div>
 
 ## Research Interests
 

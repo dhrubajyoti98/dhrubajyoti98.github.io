@@ -44,7 +44,7 @@ theme: default
 </div>
 <br>
 
-> “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman
+> <div align="center"> <p> “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman </p> </div>
 
 - [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 

@@ -44,7 +44,7 @@ theme: default
 </div>
 <br>
 
-> "Curiosity is the key to problem solving." - Galileo Galilei
+> <div align="center"> <p> "Curiosity is the key to problem solving." - Galileo Galilei </p> </div>
 
 ### Teaching Assistant at IIT Madras
 

@@ -47,7 +47,7 @@ layout: default
 </div>
 <br>
 
-> "I have no special talent. I am only passionately curious." - Albert Einstein
+> <div align="center"> <p> "I have no special talent. I am only passionately curious." - Albert Einstein </p> </div>
 
 <img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="img/dp.jpeg" alt="dp" width="185"/>
 
