@@ -77,7 +77,7 @@ I am also interested in exploring the applications of high performance computing
 
 ## Workshops and Training Schools
 
-- [NSM Workshop on High Performance Computing (HPC) for Computational Fluid Dynamics (CFD) Applications](https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/); IIT Bombay.
+- [NSM Workshop on HPC for CFD Applications](https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/); IIT Bombay.
 - [NSM Course: GPU Programming with OpenACC 2022](https://www.cse.iitm.ac.in/~rupesh/events/openacc2022/); IIT Madras.
 - [Bangalore School of Statistical Physics 2020](https://www.icts.res.in/program/bssp2020); ICTS Bangalore.
 - [ACM Winter School on HPC 2019](https://cse.iitk.ac.in/users/pmalakar/acmwshpc2019.html); IIT Kanpur.
