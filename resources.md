@@ -48,11 +48,11 @@ theme: default
 
 - [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 
-- [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html) - a very important C/C++ library which will be very useful for numerical methods in physics and engineering.
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html) - a very important numerical C/C++ library.
   
-- I am developing a benchmark suite for workstations. See [here] for more details and also if you would like to contribute, let me know.
+- A benchmark suite for workstations - see [here].
 
-- If you want to learn shared-memory parallelism using OpenMP, Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"] is one of the best introductory-level resources available.
+- To learn shared-memory parallelism using OpenMP, see Tim Mattson's tutorials titled ["A Hands-On Introduction to OpenMP"].
 
 ["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
 [here]: https://github.com/dhrubajyoti98/HPPWB
