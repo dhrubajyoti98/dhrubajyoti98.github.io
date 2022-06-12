@@ -47,3 +47,118 @@ footer {
     float:right;
   }
 }
+
+header {
+  border-radius: 8px 8px 0 0;
+  background:#ffffff;
+  background: linear-gradient(#000000, #ffffff);
+  position:relative;
+  padding:15px 20px;
+  border-bottom:1px solid #B2D2E1;
+
+  h1 {
+    margin:0;
+    padding:0;
+    font-size:24px;
+    line-height:1.2;
+    color:#069;
+    text-shadow:rgba(#fff, 0.9) 0 1px 0;
+  }
+
+  &.without-description h1 {
+    margin:10px 0;
+  }
+
+  p {
+    margin:0;
+    color:#000000;
+    width:300px;
+    font-size:13px;
+
+    &.view {
+      display:none;
+      font-weight:700;
+      text-shadow:rgba(#fff, 0.9) 0 1px 0;
+      -webkit-font-smoothing:antialiased;
+
+      a {
+        color:#06c;
+      }
+
+      small {
+        font-weight:400;
+      }
+    }
+  }
+
+  ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+    position:absolute;
+    z-index:1;
+    right:20px;
+    top:20px;
+    height:38px;
+    padding:1px 0;
+    background:#5198DF;
+    background: linear-gradient(#77B9FB, #3782CD);
+    border-radius:5px;
+    box-shadow: inset rgba(#fff, 0.45) 0 1px 0, inset rgba(#000, 0.2) 0 -1px 0;
+    width:auto;
+
+    &:before {
+      content:'';
+      position:absolute;
+      z-index:-1;
+      left:-5px;
+      top:-4px;
+      right:-5px;
+      bottom:-6px;
+      background:rgba(#000, 0.1);
+      border-radius: 8px;
+      box-shadow: rgba(#000, 0.2) 0 -1px 0, inset rgba(#fff, 0.7) 0 -1px 0;
+    }
+
+    li {
+      width:79px;
+      float:left;
+      border-right:1px solid #3A7CBE;
+      height:38px;
+
+      &.single {
+        border:none;
+      }
+    }
+
+    li + li {
+      width:78px;
+      border-left:1px solid #8BBEF3;
+    }
+
+    li + li + li {
+      border-right:none;
+      width:79px;
+    }
+
+    a {
+      line-height:1;
+      font-size:11px;
+      color:#fff;
+      color:rgba(#fff, 0.8);
+      display:block;
+      text-align:center;
+      font-weight:400;
+      padding-top:6px;
+      height:40px;
+      text-shadow:rgba(#000, 0.4) 0 -1px 0;
+
+      strong {
+        font-size:14px;
+        display:block;
+        color:#fff;
+        -webkit-font-smoothing:antialiased;
+      }
+    }
+  }
+}
