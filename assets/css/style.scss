@@ -8,3 +8,13 @@ html {
     background: #354150 linear-gradient(#c4000a, #000000) fixed;
     height: 100%;
   }
+
+body {
+  padding:50px 0;
+  margin:0;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:rgb(0, 0, 0);
+  font-weight:300;
+  background:url('../images/checker.png') fixed;
+  min-height: calc(100% - 100px);
+}
