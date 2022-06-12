@@ -24,5 +24,6 @@ body {
   margin:0 auto;
   background:#ffffff;
   border-radius: 8px;
-  box-shadow: rgba(#000, 0.2) 0 0 0 10px, rgba(#000, 0.45) 0 3px 10px;
+  /*box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;*/
+  box-shadow: 5px 10px linear-gradient(#000000, #c4000a );
 }
