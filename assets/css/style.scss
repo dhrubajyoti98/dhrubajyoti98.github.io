@@ -28,7 +28,7 @@ body {
 .wrapper {
   width:740px;
   margin:0 auto;
-  background:#ffffff;
+  background:#ffffff linear-gradient(to right, #ffffff 95%, #000000) fixed;
   border-radius: 8px;
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
