@@ -4,10 +4,8 @@
 @import "{{ site.theme }}";
 
 html {
-    /*background:#000000;
-    background: #354150 linear-gradient(#c4000a, #000000) fixed;*/
-    background:url('../images/back1.JPG') fixed;
-    background-size: cover;
+    background:#000000;
+    background: #354150 linear-gradient(#c4000a, #000000) fixed;
     height: 100%;
   }
 
@@ -17,7 +15,15 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:rgb(0, 0, 0);
   font-weight:300;
-  /*background:url('../images/back1.JPG') fixed;
-  background-size: cover;*/
+  background:url('../images/back1.JPG') fixed;
+  background-size: cover;
   min-height: calc(100% - 100px);
+}
+
+.wrapper {
+  width:740px;
+  margin:0 auto;
+  background:#ffffff;
+  border-radius: 8px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
