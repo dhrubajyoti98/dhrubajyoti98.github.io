@@ -27,12 +27,23 @@ body {
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
 
-blockquote {
-  margin:0 -20px 20px;
-  padding:15px 20px 1px 40px;
-  font-style:bold;
-  /*background:#ccc;*/
-  background: #354150 linear-gradient(#c4000a, #000000) fixed;
-  background:rgba(#000, 0.06);
-  color:#222;
+footer {
+  width:640px;
+  margin:0 auto;
+  padding:20px 0 0;
+  color:#ccc;
+  overflow:hidden;
+
+  a {
+    color:#c4000a;
+    font-weight:bold;
+  }
+
+  p {
+    float:left;
+  }
+
+  p + p {
+    float:right;
+  }
 }
