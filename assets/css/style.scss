@@ -4,8 +4,10 @@
 @import "{{ site.theme }}";
 
 html {
-    background:#000000;
-    background: #354150 linear-gradient(#c4000a, #000000) fixed;
+    /*background:#000000;
+    background: #354150 linear-gradient(#c4000a, #000000) fixed;*/
+    background:url('../images/back1.JPG') fixed;
+    background-size: cover;
     height: 100%;
   }
 
@@ -15,7 +17,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:rgb(0, 0, 0);
   font-weight:300;
-  background:url('../images/back1.JPG') fixed;
-  background-size: cover;
+  /*background:url('../images/back1.JPG') fixed;
+  background-size: cover;*/
   min-height: calc(100% - 100px);
 }
