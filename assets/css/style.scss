@@ -16,7 +16,7 @@ body {
   color:rgb(0, 0, 0);
   font-weight:300;
   background:url('../images/checker.png') fixed;
-  min-height: calc(100% - 100px);
+  min-height: 100%; /*calc(100% - 100px);*/
 }
 
 .wrapper {
