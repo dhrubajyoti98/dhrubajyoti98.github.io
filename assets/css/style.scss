@@ -24,6 +24,15 @@ body {
   margin:0 auto;
   background:#ffffff;
   border-radius: 8px;
-  /*box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;*/
-  box-shadow: 5px 50px linear-gradient(#000000, #c4000a );
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
+
+blockquote {
+  margin:0 -20px 20px;
+  padding:15px 20px 1px 40px;
+  font-style:italic;
+  /*background:#ccc;*/
+  background: linear-gradient(#c4000a, #000000) fixed;
+  background:rgba(#000, 0.06);
+  color:#222;
 }
