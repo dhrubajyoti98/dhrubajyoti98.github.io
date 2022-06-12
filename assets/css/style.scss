@@ -162,3 +162,51 @@ header {
     }
   }
 }
+
+
+@media print, screen and (max-width: 740px) {
+  body {
+    padding:0;
+  }
+
+  .wrapper {
+    border-radius: 0;
+    box-shadow: none;
+    width:100%;
+  }
+
+  footer {
+    border-radius: 0;
+    padding:20px;
+    width:auto;
+
+    p {
+      float:none;
+      margin:0;
+    }
+
+    p + p {
+      float:none;
+    }
+  }
+}
+
+@media print, screen and (max-width:580px) {
+  header ul {
+    display:none;
+  }
+
+  header p.view {
+    display:block;
+  }
+
+  header p {
+    width:100%;
+  }
+}
+
+@media print {
+  header p.view a small:before {
+    content:'at https://github.com/';
+  }
+}
