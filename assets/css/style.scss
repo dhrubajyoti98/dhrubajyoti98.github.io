@@ -21,6 +21,7 @@ body {
   color:rgb(0, 0, 0);
   font-weight:300;
   background:url('../images/iit1.jpeg') fixed;
+  backdrop-filter: blur(8px); 
   background-size: cover;
   min-height: 100%; /*calc(100% - 100px);*/
 }
