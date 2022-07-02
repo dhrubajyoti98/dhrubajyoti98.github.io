@@ -54,7 +54,7 @@ theme: default
 
 - The definitive OpenMP resource : ["A Hands-On Introduction to OpenMP"].
   
-- A collection of OpenACC resources : [OpenACC slides](https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing)
+- A collection of OpenACC resources : [OpenACC slides](https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing).
 
 ["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
 [here]: https://github.com/dhrubajyoti98/HPPWB
