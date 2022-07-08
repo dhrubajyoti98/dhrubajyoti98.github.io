@@ -34,6 +34,27 @@ theme: default
   background-color: #c4000a;
   color: white;
 }
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
 </style>
 <div class="topnav">
 <div>
@@ -46,6 +67,38 @@ theme: default
 <br>
 
 > <div align="center"> <p> “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman </p> </div>
+
+### Gallery
+
+<div class="gallery">
+  <a target="_blank" href="img/group2.jpg">
+    <img src="img/group2.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">NSM Workshop on HPC</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img/group2.jpg">
+    <img src="img/group2.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">NSM Workshop on HPC</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img/group2.jpg">
+    <img src="img/group2.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">NSM Workshop on HPC</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img/group2.jpg">
+    <img src="img/group2.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">NSM Workshop on HPC</div>
+</div>
+
+## Random Stuff
 
 - [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 
