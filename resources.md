@@ -1,5 +1,6 @@
 ---
-title: Resources
+title: Other Stuff
+
 theme: default
 ---
 <style>
@@ -39,7 +40,7 @@ theme: default
   <a href="index.html">Home</a>
   <a href="res_pub_conf.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a class="active" href="resources.html">Resources</a>
+  <a class="active" href="resources.html">Other Stuff</a>
 </div>
 </div>
 <br>
