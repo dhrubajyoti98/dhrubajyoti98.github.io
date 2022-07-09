@@ -41,7 +41,7 @@ theme: default
   <a href="index.html">Home</a>
   <a href="res_pub_conf.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a class="active" href="resources.html">Other Stuff</a>
+  <a class="active" href="others.html">Others</a>
 </div>
 </div>
 <br>
