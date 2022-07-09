@@ -97,23 +97,26 @@ div.desc {
 </div>
 </div>
 
-<br>
+
 
 <div class="div2">
 
+---
+
 <h3>Random Things</h3>
 
+<ol>
+<li><a href="https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)">Random stuff I find extremely interesting and/or useful</a>.</li>
 
-- [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
-
-- [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html) - a very important numerical C/C++ library.
+<li><a href="https://www.gnu.org/software/gsl/doc/html/index.html">GNU Scientific Library (GSL)</a> - a very important numerical C/C++ library.</li>
   
-- A benchmark suite for workstations - see [here].
+<li>A benchmark suite for workstations - see <a href="https://github.com/dhrubajyoti98/HPPWB">here</a>.</li>
 
-- The definitive OpenMP resource : ["A Hands-On Introduction to OpenMP"].
+<li>The definitive OpenMP resource : <a href="https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG">"A Hands-On Introduction to OpenMP"</a>.</li>
   
-- A collection of OpenACC resources : [OpenACC slides](https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing).
+<li>A collection of OpenACC resources : <a href="https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing">[OpenACC slides]</a>.</li>
 
+</ol>
 
 ["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
 [here]: https://github.com/dhrubajyoti98/HPPWB
