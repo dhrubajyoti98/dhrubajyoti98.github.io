@@ -74,7 +74,7 @@ div.desc {
 > <div align="center"> <p> “It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn't agree with experiment, it’s wrong.” - Richard Feynman </p> </div>
 
 ### Some Pictures
-
+<div>
 <div class="gallery">
   <a target="_blank" href="img/gallery/nsmbombay.jpg">
     <img src="img/gallery/nsmbombay.jpg" alt="NSM Bombay" width="600" height="400">
@@ -95,11 +95,14 @@ div.desc {
   </a>
   <div class="desc">TUBML Group, circa. 2019</div>
 </div>
+</div>
 
+<br>
 
 <div class="div2">
 
-### Random Things:
+<h3>Random Things</h3>
+
 
 - [Random stuff I find extremely interesting and/or useful](https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac).
 
@@ -111,7 +114,8 @@ div.desc {
   
 - A collection of OpenACC resources : [OpenACC slides](https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing).
 
-</div>
 
 ["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
 [here]: https://github.com/dhrubajyoti98/HPPWB
+
+</div>
