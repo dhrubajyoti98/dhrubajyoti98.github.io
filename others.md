@@ -79,29 +79,37 @@ div.desc {
   <a target="_blank" href="img/gallery/nsmbombay.jpg">
     <img src="img/gallery/nsmbombay.jpg" alt="NSM Bombay" width="600" height="400">
   </a>
-  <div class="desc">NSM Workshop on HPC, IIT Bombay</div>
+  <div class="desc">NSM Workshop on HPC@IIT Bombay</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/cnsdiitk.jpeg">
     <img src="img/gallery/cnsdiitk.jpeg" alt="CNSD Kanpur" width="600" height="400">
   </a>
-  <div class="desc">CNSD 2019, IIT Kanpur</div>
+  <div class="desc">CNSD 2019@IIT Kanpur</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/tubml1.jpeg">
     <img src="img/gallery/tubml1.jpeg" alt="TUBML Group" width="600" height="400">
   </a>
-  <div class="desc">TUBML Group, circa. 2019</div>
+  <div class="desc">TUBML Group@IIT Madras circa. 2019</div>
 </div>
+
+<div class="gallery">
+  <a target="_blank" href="img/gallery/iiser.jpg">
+    <img src="img/gallery/iiser.jpg" alt="TUBML Group" width="600" height="400">
+  </a>
+  <div class="desc">With Prof. Soumitro Banerjee@IISER-K</div>
+</div>
+
 </div>
 
 
 
 <div class="div2">
 
----
+<br>
 
 <h3>Random Things</h3>
 
@@ -117,8 +125,5 @@ div.desc {
 <li>A collection of OpenACC resources : <a href="https://drive.google.com/drive/folders/12oNwTvN4Dns6pTldCJArB1tQn7AuBwQM?usp=sharing">[OpenACC slides]</a>.</li>
 
 </ol>
-
-["A Hands-On Introduction to OpenMP"]: https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG 
-[here]: https://github.com/dhrubajyoti98/HPPWB
 
 </div>
