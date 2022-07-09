@@ -39,7 +39,7 @@ div.gallery {
   margin: 5px;
   float: left;
   border: 1px solid #ccc;
-  width: 180px;
+  width: 170px;
 }
 
 div.gallery:hover {
