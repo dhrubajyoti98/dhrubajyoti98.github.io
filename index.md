@@ -42,7 +42,7 @@ layout: default
   <a class="active" href="index.html">Home</a>
   <a href="res_pub_conf.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a href="others.html">Others</a>
+  <a href="misc.html">Misc.</a>
 </div>
 </div>
 <br>

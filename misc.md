@@ -66,7 +66,7 @@ div.desc {
   <a href="index.html">Home</a>
   <a href="res_pub_conf.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a class="active" href="others.html">Others</a>
+  <a class="active" href="misc.html">Misc.</a>
 </div>
 </div>
 <br>
