@@ -56,7 +56,7 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 - Characterizing high-dimensional dynamical systems.
 - Studying various phenomena in complex-networked dynamical systems.
 
-I am also interested in exploring the applications of high performance computing in various physics simulations.
+I am also interested in exploring the applications of high performance computing in various physics simulations using APIs like OpenMP and OpenACC.
 
 ---
 
