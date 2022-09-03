@@ -64,15 +64,15 @@ I am also interested in exploring the applications of high performance computing
 
 ### Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
-0. *... More Coming Soon (hopefully!)*
-1. <u>Biswas, D.</u>, Gupta, S. Mirroring of synchronization in a bi-layer master-slave configuration of Kuramoto oscillators [**Accepted** in Chaos: An Interdisciplinary Journal of Nonlinear Science]
-2. <u>Biswas, D.</u>, Gupta, S. Ageing transitions in a network of Rulkov neurons. Sci Rep 12, 433 (2022). [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
-3. <u>Biswas, D.</u>, Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
+- More coming soon, hopefully!
+- <u>Biswas, D.</u>, Gupta, S. Mirroring of synchronization in a bi-layer master-slave configuration of Kuramoto oscillators [**Accepted** in Chaos: An Interdisciplinary Journal of Nonlinear Science]
+- <u>Biswas, D.</u>, Gupta, S. Ageing transitions in a network of Rulkov neurons. Sci Rep 12, 433 (2022). [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
+- <u>Biswas, D.</u>, Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
 ### Conferences 
 
-1. Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation. [[Video](https://youtu.be/mEFnagnaJ8o)]
-2. Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation. [[Abstract](https://drive.google.com/file/d/1BwhtvaU8ry7BzrPUEN89Edus2fryKQdq/view)]
+- Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation. [[Video](https://youtu.be/mEFnagnaJ8o)]
+- Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation. [[Abstract](https://drive.google.com/file/d/1BwhtvaU8ry7BzrPUEN89Edus2fryKQdq/view)]
 
 ---
 
