@@ -93,7 +93,7 @@ div.desc {
   <a target="_blank" href="img/gallery/tubml1.jpeg">
     <img src="img/gallery/tubml1.jpeg" alt="TUBML Group" width="600" height="400">
   </a>
-  <div class="desc">TUBML Group@IIT Madras circa. 2019</div>
+  <div class="desc">TUBML Group@IIT Madras, 2019</div>
 </div>
 
 <div class="gallery">
@@ -107,7 +107,7 @@ div.desc {
   <a target="_blank" href="img/gallery/tubml22.png">
     <img src="img/gallery/tubml22.png" alt="TUBML Group" width="600" height="400">
   </a>
-  <div class="desc">TUBML Group@IIT Madras circa. 2022</div>
+  <div class="desc">TUBML Group@IIT Madras, 2022</div>
 </div>
 
 </div>
