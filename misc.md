@@ -107,7 +107,14 @@ div.desc {
   <a target="_blank" href="img/gallery/tubml22.png">
     <img src="img/gallery/tubml22.png" alt="TUBML Group" width="600" height="400">
   </a>
-  <div class="desc">TUBML Group@IIT Madras, 2022</div>
+  <div class="desc">TUBML Group Outing, 2022</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img/gallery/vaibhav_group.jpg">
+    <img src="img/gallery/vaibhav_group.jpg" alt="TUBML Group" width="600" height="400">
+  </a>
+  <div class="desc">Prof. Madhok's Group, 2022</div>
 </div>
 
 </div>
