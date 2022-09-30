@@ -65,7 +65,7 @@ I am also interested in exploring the applications of high performance computing
 ### Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
 - ...more coming soon (hopefully!).
-- <u>Biswas, D.</u>, Gupta, S. Mirroring of synchronization in a bi-layer master-slave configuration of Kuramoto oscillators [**Accepted** in Chaos: An Interdisciplinary Journal of Nonlinear Science]
+- <u>Dhrubajyoti Biswas </u> and Sayan Gupta , "Mirroring of synchronization in a bi-layer master–slave configuration of Kuramoto oscillators", Chaos 32, 093148 (2022) [[Link](https://doi.org/10.1063/5.0109797)]
 - <u>Biswas, D.</u>, Gupta, S. Ageing transitions in a network of Rulkov neurons. Sci Rep 12, 433 (2022). [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
 - <u>Biswas, D.</u>, Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
