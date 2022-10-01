@@ -58,10 +58,6 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 
 I am also interested in exploring the applications of high performance computing in various physics simulations using APIs like OpenMP and OpenACC.
 
----
-
-## Research Output
-
 ### Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
 - ...more coming soon (hopefully!).
