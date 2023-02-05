@@ -117,6 +117,13 @@ div.desc {
   <div class="desc">Prof. Madhok's Group, 2022</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="img/gallery/new.jpg">
+    <img src="img/gallery/new.jpg" alt="TUBML Group" width="600" height="400">
+  </a>
+  <div class="desc">Prof. Madhok's Group, 2022</div>
+</div>
+
 </div>
 
 
