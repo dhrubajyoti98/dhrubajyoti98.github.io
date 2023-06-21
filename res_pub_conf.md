@@ -71,9 +71,7 @@ I am also interested in exploring the applications of high performance computing
 - Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation. [[Video](https://youtu.be/mEFnagnaJ8o)]
 - Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation. [[Abstract](https://drive.google.com/file/d/1BwhtvaU8ry7BzrPUEN89Edus2fryKQdq/view)]
 
----
-
-## Workshops and Training Schools
+### Workshops and Training Schools
 
 - [8th Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net); Catania, Sicily.
 - [Symposium on Epidemic Modelling 2022](https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html); IIT Madras. [Part of organizing committee]
