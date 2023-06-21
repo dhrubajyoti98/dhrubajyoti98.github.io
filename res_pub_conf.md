@@ -58,15 +58,16 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 
 I am also interested in exploring the applications of high performance computing in various physics simulations using APIs like OpenMP and OpenACC.
 
-### Journal Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
+### Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
 - ...more coming soon (hopefully!).
 - <u>Dhrubajyoti Biswas </u> and Sayan Gupta , "Mirroring of synchronization in a bi-layer master–slave configuration of Kuramoto oscillators", Chaos 32, 093148 (2022) [[Link](https://doi.org/10.1063/5.0109797)]
 - <u>Biswas, D.</u>, Gupta, S. Ageing transitions in a network of Rulkov neurons. Sci Rep 12, 433 (2022). [[Link](https://www.nature.com/articles/s41598-021-03844-1)]
 - <u>Biswas, D.</u>, Seth, S., & Bor, M. (2020). A Study of the Dynamics of a New Piecewise Smooth Map. International Journal of Bifurcation and Chaos, 30(01), 2050018. [[Link](https://doi.org/10.1142/s0218127420500182)]
   
-### Conferences 
+### Conferences
 
+- 3rd International Nonlinear Dynamics Conference (NODYCON) 2023, Rome, Italy; Contribution: Oral presentation.  [[Abstract](https://nodycon.org/2023/downloads/Draft24_Book_of_Abstracts.pdf)]
 - Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation. [[Video](https://youtu.be/mEFnagnaJ8o)]
 - Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation. [[Abstract](https://drive.google.com/file/d/1BwhtvaU8ry7BzrPUEN89Edus2fryKQdq/view)]
 
@@ -74,6 +75,7 @@ I am also interested in exploring the applications of high performance computing
 
 ## Workshops and Training Schools
 
+- [8th Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net); Catania, Sicily.
 - [Symposium on Epidemic Modelling 2022](https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html); IIT Madras. [Part of organizing committee]
 - [NSM Workshop on HPC, May 17-21 2022](https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/); IIT Bombay.
 - [NSM Course: GPU Programming with OpenACC 2022](https://www.cse.iitm.ac.in/~rupesh/events/openacc2022/); IIT Madras.
