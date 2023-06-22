@@ -67,7 +67,7 @@ I am also interested in exploring the applications of high performance computing
   
 ### Conferences
 
-- 3rd International Nonlinear Dynamics Conference (NODYCON) 2023, Rome, Italy; Contribution: Oral presentation.  [[Abstract](https://nodycon.org/2023/downloads/Draft24_Book_of_Abstracts.pdf)]
+- 3rd International Nonlinear Dynamics Conference (NODYCON) 2023, Rome, Italy; Contribution: Oral presentation.  [[Abstract](https://nodycon.org/2023/downloads/Draft24_Book_of_Abstracts.pdf)],[[Slides](https://drive.google.com/file/d/1kMK4N7d2Oka5hc2RfajU_AE7zAjBkDyz/view?usp=share_link)].
 - Conference on Complex Systems (CCS) 2021, Lyon, France; Contribution: Oral presentation. [[Video](https://youtu.be/mEFnagnaJ8o)]
 - Conference on Nonlinear Systems and Dynamics (CNSD) 2019, IIT Kanpur; Contribution: Poster presentation. [[Abstract](https://drive.google.com/file/d/1BwhtvaU8ry7BzrPUEN89Edus2fryKQdq/view)]
 
