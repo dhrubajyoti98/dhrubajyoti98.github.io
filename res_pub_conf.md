@@ -74,7 +74,7 @@ I am also interested in exploring the applications of high performance computing
 ### Workshops and Training Schools
 
 - [8th Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net); Catania, Sicily.
-- [Symposium on Epidemic Modelling 2022](https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html); IIT Madras. [Part of organizing committee]
+- [Symposium on Epidemic Modelling 2022](https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html); IIT Madras. [Part of organizing team]
 - [NSM Workshop on HPC, May 17-21 2022](https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/); IIT Bombay.
 - [NSM Course: GPU Programming with OpenACC 2022](https://www.cse.iitm.ac.in/~rupesh/events/openacc2022/); IIT Madras.
 - [Bangalore School of Statistical Physics 2020](https://www.icts.res.in/program/bssp2020); ICTS Bangalore.
