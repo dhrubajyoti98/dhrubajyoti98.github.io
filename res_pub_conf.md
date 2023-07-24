@@ -49,14 +49,14 @@ theme: default
 
 > <div align="center"> <p> "My powers are ordinary. Only my application brings me success" - Isaac Newton </p> </div>
 
-## Research Interests
+### Research Interests
 
 I am intrigued by all domains of the physical and mathematical sciences, but I am especially interested in the following:
 
 - Characterizing high-dimensional dynamical systems.
 - Studying various phenomena in complex-networked dynamical systems.
-- Parallel and high-performance computing for dynamical systems simulations 
-
+- Parallel and high-performance computing for dynamical systems simulations.
+  
 ### Publications (also see [<i class="fa fa-google fa-1x"></i>-scholar])
 
 - ...more coming soon (hopefully!).
