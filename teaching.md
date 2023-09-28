@@ -51,3 +51,7 @@ theme: default
 - PH1010 Introductory physics course for UGs.
 - PH1030 Physics Lab for UGs.
 - PH5500 Dynamical Systems.
+
+### Others
+
+- NSM Online Course on [Scientific Computing on GPUs with OpenACC](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/), November 4-25, 2023. 
