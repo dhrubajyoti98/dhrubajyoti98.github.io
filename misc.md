@@ -134,7 +134,9 @@ div.desc {
 
 <h3>Random Things</h3>
 
+<ol>
 <li>The definitive OpenMP resource : <a href="https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG">"A Hands-On Introduction to OpenMP"</a>.</li>
+</ol>
 
 <!--<ol>
 <li><a href="https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)">Random stuff I find extremely interesting and/or useful</a>.</li>
