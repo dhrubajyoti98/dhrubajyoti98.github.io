@@ -55,4 +55,4 @@ theme: default
 ### Others
 
 - [Scientific Computing on GPUs with OpenACC](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/), Nov 4-25 2023, organized by [NSM](https://nsmindia.in) & IIT Madras.
-  [[Course Material]](linktocoursematerial.com)
+  [[Slides]](linktocoursematerial.com)
