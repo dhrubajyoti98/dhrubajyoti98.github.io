@@ -54,4 +54,4 @@ theme: default
 
 ### Others
 
-- NSM Online Course on [Scientific Computing on GPUs with OpenACC](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/), November 4-25, 2023. 
+- [Scientific Computing on GPUs with OpenACC](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/), Nov 4-25 2023, organized by [NSM](https://nsmindia.in) and IIT Madras. [[Course Material]](linktocoursematerial.com)
