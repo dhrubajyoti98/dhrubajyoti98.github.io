@@ -5,7 +5,9 @@ layout: default
 ---
 ## Course material for "Scientific Computing on GPUs with OpenACC"
 Organized by **NSM** and **IIT Madras**.
-Dates: November 4-25, 2023.
+
+**Dates**: November 4-25, 2023.
+
 Link to course [webpage](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/).
 
 ### Slides
