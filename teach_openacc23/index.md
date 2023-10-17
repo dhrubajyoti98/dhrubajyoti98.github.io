@@ -1,16 +1,28 @@
 ---
-title: "Scientific Computing on GPUs with OpenACC 2023"
+title: "Course Material: Scientific Computing on GPUs with OpenACC 2023"
 permalink: /teach_openacc23/
 layout: default
 ---
-# Scientific Computing on GPUs with OpenACC 2023
+### Course material for "Scientific Computing on GPUs with OpenACC, 2023"
 
-### Slides
+[Course webpage](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/).
+
+#### Slides
+
 - Week 1
 - Week 2
 - Week 3
 
-### Codes
+#### Codes
+
 - Week 1
 - Week 2
 - Week 3
+
+#### Recordings
+
+- Week 1
+- Week 2
+- Week 3
+
+[Back.](dhrubajyoti98.github.io)
