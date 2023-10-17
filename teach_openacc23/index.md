@@ -1,6 +1,6 @@
 ---
 title: "Scientific Computing on GPUs with OpenACC 2023"
-permalink: /
+permalink: /teach_openacc23/
 layout: default
 ---
 
