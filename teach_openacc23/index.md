@@ -12,13 +12,13 @@ Link to course [webpage](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/).
 
 ### Slides
 
-- Week 1 : [Day 1](https://drive.google.com/file/d/1TDRze30wsTaiVo-BED2VsH_98yBXf2xp/view?usp=share_link), [Day 2](test.html)
+- Week 1: [Day 1](https://drive.google.com/file/d/1TDRze30wsTaiVo-BED2VsH_98yBXf2xp/view?usp=share_link)
 - Week 2
 - Week 3
 
 ### Recordings
 
-- Week 1
+- Week 1: [Day 1](https://drive.google.com/file/d/1c3dR5JwjEH_HXdN1kahEwiTOYZTaaIyW/view?usp=sharing)
 - Week 2
 - Week 3
 
