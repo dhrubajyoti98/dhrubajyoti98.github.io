@@ -1,0 +1,11 @@
+site_name: Dhrubajyoti Biswas, PhD
+nav:
+- About: index.md
+- Research: research.md
+- Teaching: teaching.md
+- Miscellaneous: misc.md
+- CV: https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view
+theme:
+  name: mkdocs
+  user_color_mode_toggle: light
+  nav_style: dark
