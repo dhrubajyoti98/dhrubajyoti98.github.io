@@ -2,7 +2,7 @@
 
 <div align="justify">
 <p>
-Hello! I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex dynamical systems.
+I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex dynamical systems.
 </p>
 
 <p>
@@ -22,14 +22,9 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
     <th>Institute</th>
   </tr>
   <tr>
-    <td>Research Scientist-I</td>
-    <td>Apr. 2025 - now </td>
-    <td rowspan="2" style="vertical-align : middle;">National Brain Research Centre Gurgaon</td>
-  </tr>
-  <tr>
-    <td>Research Associate-I</td>
-    <td>Sep. 2024 - Apr. 2025 </td>
-    
+    <td>Research Associate</td>
+    <td>Sep. 2024 - now </td>
+    <td>National Brain Research Centre Gurgaon</td>
   </tr>
   <tr>
     <td>Research & Teaching Assistant</td>
@@ -46,10 +41,11 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 ## Academics
 
-| Degree | Duration | Institute | 
+| Degree | Duration | Institute/University | 
 | ------ | -------- | --------- | 
-| MSc in Physics & [PhD](PhD.md)  | 2017 - 2024 | Indian Institute of Technology Madras | 
-| BSc with Honours in Physics     | 2014 - 2017 | St. Xavier's College (Autonomous) Kolkata |
+| MSc in Physics & PhD [[Link](PhD.md)]  | 2017 - 2024 | Indian Institute of Technology Madras | 
+| BSc with Honours in Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)]     | 2014 - 2017 | St. Xavier's College Kolkata, University of Calcutta  |
+
 
 ## Contact
 

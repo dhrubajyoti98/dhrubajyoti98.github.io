@@ -2,7 +2,7 @@
 
 
 
-## Teaching Assistant, IITM
+## TA@IITM
 
 <ul>
 <li> PH1010 Introductory physics course for UGs. </li>
@@ -13,5 +13,5 @@
 ## Others
 
 <ul>
-<li> NSM Course on Scientific Computing on GPUs with OpenACC, November 4-25 2023. <a href="http://www.cse.iitm.ac.in/~rupesh/events/openacc23/">Link</a> </li>
+<li> NSM Course on Scientific Computing on GPUs with OpenACC, November 4-25 2023. [<a href="http://www.cse.iitm.ac.in/~rupesh/events/openacc23/">Link</a>] </li>
 </ul>

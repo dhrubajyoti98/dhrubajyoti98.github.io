@@ -24,5 +24,5 @@ This thesis explores the occurrence of emergent phenomena in various high-dimens
 
 ## Links
 
-- [Chapterwise PDFs](https://shodhganga.inflibnet.ac.in/handle/10603/609844), via Shodhganga.
-- [Compiled PDF](https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing), via Google Drive.
+- Full-text of thesis: [Chapterwise PDFs](https://shodhganga.inflibnet.ac.in/handle/10603/609844), via Shodhganga; [Compiled PDF](https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing), via Google Drive.
+- [Degree Certificates](https://drive.google.com/file/d/1e_EdV3adnDxSkRCMAQGF4_j8DAEQHmok/view?usp=sharing), via Google Drive.
