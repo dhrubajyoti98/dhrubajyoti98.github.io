@@ -1,6 +1,7 @@
 site_name: Dhrubajyoti Biswas, PhD
 site_url: https://dhrubajyoti98.github.io
-copyright: Copyright &copy; 2025 Dhrubajyoti Biwas
+copyright: Copyright &copy; 2025 Dhrubajyoti Biswas
+
 
 nav:
 - About: index.md
@@ -11,7 +12,7 @@ nav:
 theme:
   name: material
   font:
-    text: DM Sans
+    text: Varela
   logo: img/favicon.ico
   favicon: img/favicon.ico
   user_color_mode_toggle: light
@@ -19,7 +20,8 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
+    - header.autohide
 
   palette:
     primary: black
-    accent: blue
+    accent: red
