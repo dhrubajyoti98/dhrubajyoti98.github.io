@@ -2,8 +2,6 @@
 
 <div align="justify">
 
-<img src="img/dp.jpeg" alt="Girl in a jacket" width="200" height="200">
-<img src="img/dp2.jpeg" alt="Girl in a jacket" width="200" height="200">
 
 <p>
 I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex dynamical systems.
