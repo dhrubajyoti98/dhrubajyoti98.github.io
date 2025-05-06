@@ -7,5 +7,14 @@ nav:
 - CV: https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view
 theme:
   name: material
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
   user_color_mode_toggle: light
   nav_style: dark
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+
+  palette:
+    primary: black
+    accent: black
