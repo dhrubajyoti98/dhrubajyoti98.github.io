@@ -25,3 +25,6 @@ theme:
   palette:
     primary: black
     accent: red
+
+plugins:
+  - social
