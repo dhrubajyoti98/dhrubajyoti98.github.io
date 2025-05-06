@@ -1,0 +1,3 @@
+This repository contains the code for my personal website.
+
+Link to my website: https://dhrubajyoti98.github.io
