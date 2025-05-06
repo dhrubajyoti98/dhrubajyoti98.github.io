@@ -8,7 +8,7 @@ nav:
 - Research: research.md
 - Teaching: teaching.md
 - Miscellaneous: misc.md
-- CV: https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view
+
 theme:
   name: material
   font:

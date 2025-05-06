@@ -48,6 +48,7 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 | MSc in Physics & PhD [[Link](PhD.md)]  | 2017 - 2024 | Indian Institute of Technology Madras | 
 | BSc with Honours in Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)]     | 2014 - 2017 | St. Xavier's College Kolkata, University of Calcutta  |
 
+> For my updated resume in a PDF format, click [[here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)]!
 
 ## Contact
 
