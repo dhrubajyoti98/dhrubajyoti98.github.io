@@ -6,6 +6,6 @@ nav:
 - Miscellaneous: misc.md
 - CV: https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view
 theme:
-  name: mkdocs
+  name: material
   user_color_mode_toggle: light
   nav_style: dark
