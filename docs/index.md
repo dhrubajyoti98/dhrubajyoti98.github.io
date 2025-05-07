@@ -19,8 +19,8 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 <table>
   <tr>
-    <th>Position</th>
-    <th>Duration</th>
+    <th><div style="width:190px">Position</div></th>
+    <th><div style="width:145px">Duration</div></th>
     <th>Institute</th>
   </tr>
   <tr>
@@ -38,16 +38,33 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 ## Academics
 
-| Degree | Duration | Institute/University | 
-| ------ | -------- | --------- | 
-| MSc in Physics & PhD [[Link](PhD.md)]  | 2017 - 2024 | Indian Institute of Technology Madras | 
-| BSc with Honours in Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)]     | 2014 - 2017 | St. Xavier's College Kolkata, University of Calcutta  |
+<table>
+  <tr>
+    <th><div style="width:190px">Degree</div></th>
+    <th><div style="width:145px">Duration</div></th>
+    <th>Institute</th>
+  </tr>
+  <tr>
+    <td>MSc in Physics & PhD [<a href="/research/index.html">Link</a>]</td>
+    <td>2017 - 2024 </td>
+    <td>National Brain Research Centre Gurgaon</td>
+  </tr>
+  <tr>
+    <td>BSc in Physics [<a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">Link</a>]</td>
+    <td>2014 - 2017</td>
+    <td>St. Xavier's College Kolkata, University of Calcutta</td>
+  </tr>
+</table>
 
-> For my updated resume in a PDF format, click [[here](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)]!
+
+
+> For detailed information, see my [[resume](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)].
 
 ## Contact
 
 
-- **Online**: [Google Scholar](https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-biswas/), and [Github](https://github.com/dhrubajyoti98).
+
 - **Office**: Room 009, MRI Building, National Brain Research Centre Gurgaon, Haryana, 122052, India.
 - **Email**: dhrubajyoti98 [at] _gmail.com_, _alumni.iitm.ac.in_; dhrubajyoti.ra [at] _nbrc.ac.in_.
+- **Phone**: +91-9836705913, +91-9840616811
+- **Online**: [Google Scholar](https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-biswas/), and [Github](https://github.com/dhrubajyoti98).
