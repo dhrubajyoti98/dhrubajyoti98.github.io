@@ -19,8 +19,8 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 <table>
   <tr>
-    <th><div style="width:190px">Position</div></th>
-    <th><div style="width:145px">Duration</div></th>
+    <th>Position</th>
+    <th>Duration</th>
     <th>Institute</th>
   </tr>
   <tr>
@@ -40,8 +40,8 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 <table>
   <tr>
-    <th><div style="width:190px">Degree</div></th>
-    <th><div style="width:145px">Duration</div></th>
+    <th>Degree</th>
+    <th>Duration</th>
     <th>Institute</th>
   </tr>
   <tr>
