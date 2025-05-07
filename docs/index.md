@@ -19,8 +19,8 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 <table>
   <tr>
-    <th>Position</th>
-    <th>Duration</th>
+    <th><div style="width:130px">Position</div></th>
+    <th><div style="width:150px">Duration</div></th>
     <th>Institute</th>
   </tr>
   <tr>
