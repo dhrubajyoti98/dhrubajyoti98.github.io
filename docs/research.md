@@ -4,10 +4,10 @@
 ## Interests
 
 <div align=justify>
-<ul>
+<ol>
 <li> <b>Emergent phenomena in dynamical systems</b>: Synchronization, aging transitions and oscillation quenching, applications to computational neuroscience and quantitative biology etc.</li>
 <li> <b>High-performance computing</b>: Applications of parallel computing using OpenMP, OpenACC, etc in scientific simulations.</li>
-</ul>
+</ol>
 </div>
 
 ## Publications
