@@ -1,5 +1,6 @@
 # About
 
+## Bio
 <div align="justify">
 
 
@@ -12,59 +13,27 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 </p>
 </div>
 
-
-
-
 ## Experience
 
-<table>
-  <tr>
-    <th>Position</th>
-    <th>Duration</th>
-    <th>Institute</th>
-  </tr>
-  <tr>
-    <td>Research Associate</td>
-    <td>Sep. 2024 - now </td>
-    <td>National Brain Research Centre Gurgaon</td>
-  </tr>
-  <tr>
-    <td>Research Intern</td>
-    <td>May 2018 - Jul. 2018</td>
-    <td>Indian Institute of Science Education and Research Kolkata</td>
-  </tr>
-</table>
+| Position | Duration | Institute |
+| ---------| ---------| ----------|
+| Research Associate-1 | Sep 2024 - now | <div align="justify">Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</div> |
+| Research Intern | May 2018 - Jul 2018 | <div align="justify">Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata</div> |
 
 
 ## Academics
 
-<table>
-  <tr>
-    <th>Degree</th>
-    <th>Duration</th>
-    <th>Institute</th>
-  </tr>
-  <tr>
-    <td>MSc in Physics & PhD [<a href="/research/index.html">Link</a>]</td>
-    <td>2017 - 2024 </td>
-    <td>Indian Institute of Technology Madras</td>
-  </tr>
-  <tr>
-    <td>BSc in Physics [<a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">Link</a>]</td>
-    <td>2014 - 2017</td>
-    <td>St. Xavier's College, University of Calcutta</td>
-  </tr>
-</table>
-
+| Degree | Duration | Institute |
+| ---------| ---------| ----------|
+| MSc Physics & PhD [[Link](PhD.md)] | 2017 - 2024 | <div align="justify">Department of Physics, Indian Institute of Technology Madras</div> |
+| BSc Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)] | 2014 - 2017 | <div align="justify">Department of Physics, St. Xavier's College (Autonomous), University of Calcutta</div> |
 
 
 > For detailed information, see my [[resume](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)].
 
 ## Contact
 
-
-
-- **Office**: Room 009, MRI Building, National Brain Research Centre Gurgaon, Haryana, 122052, India.
-- **Email**: dhrubajyoti98 [at] _gmail.com_, _alumni.iitm.ac.in_; dhrubajyoti.ra [at] _nbrc.ac.in_.
+- <div align="justify">**Office**: MRI Building, National Brain Research Centre Gurgaon, Haryana, 122052</div>
+- **Email**: dhrubajyoti98 [at] _gmail.com_, _alumni.iitm.ac.in_; dhrubajyoti.ra [at] _nbrc.ac.in_
+- **Online**: [Google Scholar](https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-biswas/), and [Github](https://github.com/dhrubajyoti98)
 - **Phone**: +91-9836705913, +91-9840616811
-- **Online**: [Google Scholar](https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-biswas/), and [Github](https://github.com/dhrubajyoti98).
