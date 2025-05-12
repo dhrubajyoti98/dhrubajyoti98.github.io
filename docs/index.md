@@ -17,7 +17,7 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 | Position | Duration | Institute |
 | ---------| ---------| ----------|
-| Research Associate-1 | Sep 2024 - now | <div align="justify">Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</div> |
+| Research Associate | Sep 2024 - now | <div align="justify">Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</div> |
 | Research Intern | May 2018 - Jul 2018 | <div align="justify">Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata</div> |
 
 
@@ -33,7 +33,7 @@ I currently stay on campus at NBRC Gurgaon, while my native place is back in the
 
 ## Contact
 
+- **Email**: dhrubajyoti98[at]_gmail.com_, _alumni.iitm.ac.in_; dhrubajyoti.ra[at]_nbrc.ac.in_
 - <div align="justify">**Office**: MRI Building, National Brain Research Centre Gurgaon, Haryana, 122052</div>
-- **Email**: dhrubajyoti98 [at] _gmail.com_, _alumni.iitm.ac.in_; dhrubajyoti.ra [at] _nbrc.ac.in_
 - **Online**: [Google Scholar](https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-biswas/), and [Github](https://github.com/dhrubajyoti98)
-- **Phone**: +91-9836705913, +91-9840916811
+- **Phone**: (+91)-9836705913, 9840916811
