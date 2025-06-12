@@ -5,7 +5,7 @@
 
 
 <p>
-I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex dynamical systems.
+I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex and nonlinear dynamical systems.
 </p>
 
 <p>
