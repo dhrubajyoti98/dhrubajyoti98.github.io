@@ -1,7 +1,7 @@
 # About
 
 ## Bio
-![Image title](img/dp2.jpeg){ align=left }
+![Image title](img/dp.jpeg){ align=left }
 <div align="justify">
 
 <p>
