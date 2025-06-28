@@ -3,13 +3,12 @@
 ## Bio
 <div align="justify">
 
-
 <p>
-I am currently working as a postdoctoral researcher at the National Brain Research Centre (NBRC) Gurgaon, under the supervision of <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>. Prior to this, I obtained my PhD at the Indian Institute of Technology Madras (IITM), working on problems of complex and nonlinear dynamical systems.
+I studied Physics at St. Xavier’s College Kolkata, with electives on nonlinear dynamics and numerical programming. After a MSc in Physics at Indian Institute of Technology Madras, I obtained my PhD under the supervision of Prof. Sayan Gupta and Prof. Vaibhav Madhok. Currently, I am working as a postdoctoral researcher at National Brain Research Centre Gurgaon with Prof. Arpan Banerjee.
 </p>
 
 <p>
-I currently stay on campus at NBRC Gurgaon, while my native place is back in the town of Kalyani, West Bengal. Apart from my academic interests, I take an interest in learning different programming languages and photography. I also play cricket from time to time.
+At the core of my research lies the study of high-dimensional dynamical systems, particularly those that can be effectively modeled using the mathematical framework of complex networks. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to rich emergent phenomena. One of the central themes I explore is synchronization which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This line of inquiry is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. For instance, I investigate synchronization in systems of coupled Kuramoto oscillators, which serve as canonical models for phase synchronization in physical, chemical, and biological contexts. I also study neuronal dynamics within the brain, where synchronization plays a crucial role in shaping cognitive processes and neurological disorders. By combining tools from nonlinear dynamics, network theory, and computational modeling, my work aims to deepen our understanding of how complex interactions shape the behavior of large-scale systems across disciplines.
 </p>
 </div>
 
