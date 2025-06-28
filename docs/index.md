@@ -1,6 +1,7 @@
 # About
 
 ## Bio
+![Image title](img/dp2.jpeg){ align=left }
 <div align="justify">
 
 <p>
