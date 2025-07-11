@@ -1,6 +1,5 @@
 # About
 
-## Bio
 ![Image title](img/dp.jpeg){ align=left }
 <div align="justify">
 
@@ -21,16 +20,16 @@ Thus, by combining tools from nonlinear dynamics, network theory, and high-perfo
 
 | Position | Duration | Institute |
 | ---------| ---------| ----------|
-| Postdoc | Sep 2024 - now | <div align="justify">Cognitive Brain Dynamics Lab, National Brain Research Centre, Gurgaon</div> |
-| Intern | May 2018 - Jul 2018 | <div align="justify">Department of Physical Sciences, Indian Institute of Science Education and Research, Kolkata</div> |
+| Postdoc | Sep 2024 - now | <img src="img/NBRClogo.png" alt="drawing" width="70" style="margin:7px;"><div align="justify">Cognitive Brain Dynamics Lab, National Brain Research Centre, Gurgaon</div> |
+| Intern | May 2018 - Jul 2018 | <img src="img/IISER-K.png" alt="drawing" width="70" style="margin:7px;"><div align="justify">Department of Physical Sciences, Indian Institute of Science Education and Research, Kolkata</div> |
 
 
 ## Academics
 
 | Degree | Duration | Institute |
 | ---------| ---------| ----------|
-| MSc Physics & PhD [[Link](PhD.md)] | 2017 - 2024 | <div align="justify">Department of Physics, Indian Institute of Technology Madras</div> |
-| BSc Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)] | 2014 - 2017 | <div align="justify">Department of Physics, St. Xavier's College (Autonomous), University of Calcutta</div> |
+| MSc Physics & PhD [[Link](PhD.md)] | 2017 - 2024 |  <img src="img/IITM.png" alt="drawing" width="70" style="margin:7px;"><div align="justify">Department of Physics, Indian Institute of Technology Madras</div>  |
+| BSc Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)] | 2014 - 2017 | <img src="img/sxc.jpg" alt="drawing" width="70" style="margin:7px;"><div align="justify">Department of Physics, St. Xavier's College (Autonomous), University of Calcutta</div> |
 
 
 > For detailed information, see my [[resume](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)].
