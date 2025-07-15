@@ -1,5 +1,7 @@
 # Research
 
+<p align=justify>My research deals with the study of high-dimensional dynamical systems, particularly those that are modeled using the mathematical framework of complex networks. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to rich emergent phenomena. One of the central themes I explore is synchronization which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. Thus, by combining tools from nonlinear dynamics, network theory, and high-performance computing, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.
+</p>
 
 ## Interests
 
@@ -44,5 +46,3 @@
 <li> <b>National Summer School on Statistical Physics 2018</b>, SNBNCBS, Kolkata. [<a href="https://www.bose.res.in/Conferences/NSS2018/">Link</a>]
 </ol>
 </div>
-
-

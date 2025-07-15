@@ -1,33 +1,41 @@
 # About
 
-![Image title](img/dp.jpeg){ align=left }
+## Bio
+<table style="width:100%">
+<tr>
+<td><img src="img/dp.jpeg" width="2700" height="1000"></td>
+<td>
 <div align="justify">
+<p>
+I pursued my undergraduate studies in Physics at St. Xavier’s College Kolkata, with elective courses on nonlinear dynamics and numerical methods. I went on to complete my postgraduate degree in Physics at the Indian Institute of Technology (IIT) Madras. Subsequently, I pursued my doctoral research at IIT Madras under the joint supervision of Prof. Sayan Gupta and Prof. Vaibhav Madhok, focussing on the theoretical and computational analysis of dynamical systems and complex networks.</p>
 
 <p>
-I studied Physics at St. Xavier’s College Kolkata, with electives on nonlinear dynamics and numerical programming. After a MSc in Physics at Indian Institute of Technology Madras, I obtained my PhD under the supervision of <a href="https://home.iitm.ac.in/sayan/">Prof. Sayan Gupta</a> and <a href="https://sites.google.com/view/madhok">Prof. Vaibhav Madhok</a>. Currently, I am working as a postdoctoral researcher at National Brain Research Centre Gurgaon with <a href="https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee">Prof. Arpan Banerjee</a>.
+Currently, I am a postdoctoral researcher at the National Brain Research Centre (NBRC) in Gurgaon, where I work in the Cognitive Brain Dynamics Lab led by Prof. Arpan Banerjee, investigating the dynamics of brain networks through the lens of nonlinear dynamics and computational modeling.
 </p>
 
 <p>
-At the core of my research lies the study of high-dimensional dynamical systems, particularly those that are modeled using the mathematical framework of complex networks. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to rich emergent phenomena. One of the central themes I explore is synchronization which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. 
-Thus, by combining tools from nonlinear dynamics, network theory, and high-performance computing, my work aims to deepen our understanding of how complex interactions shape the behavior of large-scale systems across disciplines.
+For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">[resume]</a>.
 </p>
-</div>
+</div></td>
+</tr>
+</table>
+
 
 ## Experience
 
 | Position | Duration | Institute |
 | ---------| ---------| ----------|
-| Postdoc | Sep 2024 - now | <div align="justify">National Brain Research Centre, Gurgaon</div> |
-| Intern | May 2018 - Jul 2018 | <div align="justify">Indian Institute of Science Education and Research, Kolkata</div> |
+| Postdoc | Sep 2024 - present | <div align="justify">National Brain Research Centre Gurgaon</div> |
+| Intern | May 2018 - July 2018 | <div align="justify">Indian Institute of Science Education and Research Kolkata</div> |
 
 ## Academics
 
 | Degree | Duration | Institute |
 | ---------| ---------| ----------|
 | MSc Physics & PhD [[Link](PhD.md)] | 2017 - 2024 |  <div align="justify">Indian Institute of Technology Madras</div>  |
-| BSc Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)] | 2014 - 2017 | <div align="justify">St. Xavier's College (Autonomous), University of Calcutta</div> |
+| BSc with Honours in Physics [[Link](https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing)] | 2014 - 2017 | <div align="justify">St. Xavier's College (Autonomous), University of Calcutta</div> |
 
-> For detailed information, see my [[resume](https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view)].
+
 
 ## Contact
 
