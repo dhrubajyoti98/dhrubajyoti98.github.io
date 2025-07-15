@@ -1,20 +1,30 @@
 # Research
 
-<p align=justify>My research deals with the study of high-dimensional dynamical systems, particularly those that are modeled using the mathematical framework of complex networks. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to rich emergent phenomena. One of the central themes I explore is synchronization which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. Thus, by combining tools from nonlinear dynamics, network theory, and high-performance computing, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.
-</p>
+<table>
+<tr>
+<td  align=justify>
+<p>My research deals with the study of high-dimensional dynamical systems, particularly those that are modeled using the mathematical framework of complex networks. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to rich emergent phenomena. One of the central themes I explore is synchronization which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. Thus, by combining tools from nonlinear dynamics, network theory, and high-performance computing, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p>
+</td>
+</tr>
+</table>
 
 ## Interests
 
-<div align=justify>
-<ol>
-<li> <b>Emergent phenomena in dynamical systems</b>: Synchronization, aging transitions and oscillation quenching, applications to computational neuroscience and quantitative biology etc.</li>
-<li> <b>High-performance computing</b>: Applications of parallel computing using OpenMP, OpenACC, etc in scientific simulations.</li>
-</ol>
-</div>
+<table>
+<tr>
+<td align=justify>
+<p><b>Emergent phenomena in dynamical systems</b>: Synchronization, aging transitions and oscillation quenching, applications to computational neuroscience and quantitative biology etc.</p>
+<p><b>High-performance computing</b>: Applications of parallel computing using OpenMP, OpenACC, etc in scientific simulations.</li></p>
+</td>
+</tr>
+</table>
 
 ## Publications
 
-<div align=justify>
+<table>
+<tr>
+<td  align=justify>
+
 <ol>
 <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator", Accepted in Phys. Rev. E. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
 <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Symmetry-breaking higher-order interactions in coupled phase oscillators", Chaos, Solitons & Fractals, 181:114721, (2024). [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
@@ -24,11 +34,17 @@
 <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Ageing transitions in a network of Rulkov neurons", Scientific Reports 12, 433 (2022). [<a href="https://www.nature.com/articles/s41598-021-03844-1">Link</a>]
 <li> <b>Dhrubajyoti Biswas</b>, Soumyajit Seth, and Mita Bor; "A Study of the Dynamics of a New Piecewise Smooth Map", International Journal of Bifurcation and Chaos, 30(01), 2050018 (2020). [<a href="https://doi.org/10.1142/s0218127420500182">Link</a>]
 </ol>
-</div>
+
+</td>
+</tr>
+</table>
 
 ## Conferences, etc.
 
-<div align=justify>
+<table>
+<tr>
+<td align=justify>
+
 <ol>
 <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
 <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
@@ -45,4 +61,7 @@
 <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]
 <li> <b>National Summer School on Statistical Physics 2018</b>, SNBNCBS, Kolkata. [<a href="https://www.bose.res.in/Conferences/NSS2018/">Link</a>]
 </ol>
-</div>
+
+</td>
+</tr>
+</table>
