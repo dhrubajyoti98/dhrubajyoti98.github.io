@@ -3,7 +3,7 @@
 ## Bio
 <table style="width:100%">
 <tr>
-<td><img src="img/dp.jpeg" width="2700" height="1000"></td>
+<td><img src="img/dp1.jpeg" width="2700" height="1000"></td>
 <td>
 <div align="justify">
 <p>
