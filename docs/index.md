@@ -1,9 +1,27 @@
 # About
 
 ## Bio
+
+<style>
+@media screen and (max-width: 1220px) {
+  section.example1 {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 1220px) {
+  section.example2 {
+    display: none;
+  }
+}
+</style>
+
+<section class="example1">
+
 <table style="width:100%">
 <tr>
-<td><img src="img/dp1.jpeg" width="2700" height="1000"></td>
+<td><img class="example1" src="img/dp1.jpeg" width="2700" height="1000"></td>
 <td>
 <div align="justify">
 <p>
@@ -19,7 +37,28 @@ For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqy
 </div></td>
 </tr>
 </table>
+</section>
 
+<section class="example2">
+
+<table style="width:100%">
+<tr>
+<td>
+<div align="justify">
+<p>
+I pursued my undergraduate studies in Physics at St. Xavier’s College Kolkata, with elective courses on nonlinear dynamics and numerical methods. I went on to complete my postgraduate degree in Physics at the Indian Institute of Technology (IIT) Madras. Subsequently, I pursued my doctoral research at IIT Madras under the joint supervision of Prof. Sayan Gupta and Prof. Vaibhav Madhok, focussing on the theoretical and computational analysis of dynamical systems and complex networks.</p>
+
+<p>
+Currently, I am a postdoctoral researcher at the National Brain Research Centre (NBRC) in Gurgaon, where I work in the Cognitive Brain Dynamics Lab led by Prof. Arpan Banerjee, investigating the dynamics of brain networks through the lens of nonlinear dynamics and computational modeling.
+</p>
+
+<p>
+For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">[resume]</a>.
+</p>
+</div></td>
+</tr>
+</table>
+</section>
 
 ## Experience
 
