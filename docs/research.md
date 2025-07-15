@@ -1,5 +1,6 @@
 # Research
 
+### Overview
 <table>
 <tr>
 <td  align=justify>
@@ -8,7 +9,7 @@
 </tr>
 </table>
 
-## Interests
+### Interests
 
 <table>
 <tr>
@@ -19,7 +20,7 @@
 </tr>
 </table>
 
-## Publications
+### Publications
 
 <table>
 <tr>
@@ -39,7 +40,7 @@
 </tr>
 </table>
 
-## Conferences, etc.
+### Conferences, Workshops, Talks etc.
 
 <table>
 <tr>
