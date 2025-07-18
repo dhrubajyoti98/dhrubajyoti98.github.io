@@ -93,5 +93,6 @@
 </tr>
 </table>
 
-<a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=680af89e8ef0a198b632540cf4cd5206ae2b21b5'></script>
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/1367059/t/5"></script>
+
+
+<a href="https://info.flagcounter.com/Vtd8"><img src="https://s01.flagcounter.com/count/Vtd8/bg_FFFFFF/txt_000000/border_000000/columns_5/maxflags_15/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
