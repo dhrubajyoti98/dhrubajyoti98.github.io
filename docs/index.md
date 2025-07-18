@@ -92,3 +92,6 @@
 </td>
 </tr>
 </table>
+
+<a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=680af89e8ef0a198b632540cf4cd5206ae2b21b5'></script>
+<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/1367059/t/5"></script>
