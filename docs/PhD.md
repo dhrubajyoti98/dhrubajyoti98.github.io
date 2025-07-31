@@ -15,14 +15,14 @@ This thesis explores the occurrence of emergent phenomena in various high-dimens
 
 ## Advisors
 
-- [Prof. Vaibhav Madhok](https://sites.google.com/view/madhok), Department of Physics, Indian Institute of Technology Madras
-- [Prof. Sayan Gupta](https://home.iitm.ac.in/sayan/), Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras
+- [Prof. Vaibhav Madhok](https://sites.google.com/view/madhok), Department of Physics, Indian Institute of Technology Madras.
+- [Prof. Sayan Gupta](https://home.iitm.ac.in/sayan/), Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras.
 
 ## Thesis Examiner
 
-- [Prof. Sudeshna Sinha](https://web.iisermohali.ac.in/dept/physics/Sudeshna_Sinha.html), Department of Physical Sciences, Indian Institute of Science Education and Research Mohali
+- [Prof. Sudeshna Sinha](https://web.iisermohali.ac.in/dept/physics/Sudeshna_Sinha.html), Department of Physical Sciences, Indian Institute of Science Education and Research Mohali.
 
 ## Links
 
-- Full-text of thesis: [Chapterwise PDFs](https://shodhganga.inflibnet.ac.in/handle/10603/609844), via Shodhganga; [Compiled PDF](https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing), via Google Drive.
+- Thesis: (a) [Chapterwise PDFs](https://shodhganga.inflibnet.ac.in/handle/10603/609844), via Shodhganga; (b) [Compiled PDF](https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing), via Google Drive.
 - [Degree Certificates](https://drive.google.com/file/d/1e_EdV3adnDxSkRCMAQGF4_j8DAEQHmok/view?usp=sharing), via Google Drive.
