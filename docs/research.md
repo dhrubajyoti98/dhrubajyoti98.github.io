@@ -30,7 +30,7 @@
 
 <ol>
 <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth; "Effect of higher-order interactions on aging transitions of coupled neurons", Accepted in Chaos, Solitons & Fractals.
-<li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator", Accepted in Phys. Rev. E. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
+<li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator", Phys. Rev. E, 112:024207 (2025). [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
 <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Symmetry-breaking higher-order interactions in coupled phase oscillators", Chaos, Solitons & Fractals, 181:114721, (2024). [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
 <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Effect of adaptation functions and multilayer topology on synchronization", Phys. Rev. E, 109:024221, (2024). [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024221">Link</a>]
 <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators", Advances in Nonlinear Dynamics, Volume II. Springer (2024). [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
