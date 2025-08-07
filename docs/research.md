@@ -5,7 +5,7 @@
 <tr>
 <td  align=justify>
 <p>My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to <b>emergent phenomena</b>.</p> 
-<p>One of the central themes I explore is <b>synchronization</b> which describes how individual units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. Thus, by combining tools from <b>nonlinear dynamics</b>, <b>network theory</b>, and <b>high-performance computing</b>, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p>
+<p>One of the central themes I explore is <b>synchronization</b>, which describes how individual dynamical units coordinate their behavior to exhibit coherent, collective motion. This is not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. Thus, by combining tools from <b>nonlinear dynamics</b>, <b>network theory</b>, and <b>high-performance computing</b>, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p>
 </td>
 </tr>
 </table>
@@ -15,9 +15,9 @@
 <table>
 <tr>
 <td align=justify>
-<p><b>Emergent phenomena in dynamical systems</b>: Synchronization, aging transitions, and oscillation quenching etc.</p>
-<p><b>High-performance computing</b>: Applications of parallel computing using OpenMP, OpenACC, and MPI in scientific simulations.</p>
-<p><b>Applications</b>: Computational neuroscience, quantitative biology, and quantum dynamics etc.</p>
+<p><b>Emergent phenomena in dynamical systems</b> like synchronization, aging and oscillation quenching etc.</p>
+<p><b>High-performance computing</b> using OpenMP, OpenACC, and MPI in scientific simulations.</p>
+<p><b>Applications of dynamical systems</b> in network analysis, neuroscience, quantitative biology etc.</p>
 </td>
 </tr>
 </table>
