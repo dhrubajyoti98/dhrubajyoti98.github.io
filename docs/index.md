@@ -41,7 +41,7 @@
 
 </ul>
 
-<p align="justify">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a>.</p>
+##### <p align="justify">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a>.</p>
 
 ## Contact
 
