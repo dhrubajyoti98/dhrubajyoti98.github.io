@@ -41,7 +41,7 @@
 
 </ul>
 
-##### <p align="justify">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a>.</p>
+<p align="justify">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a>.</p>
 
 ## Contact
 
@@ -50,6 +50,6 @@
 <li><b>Emails</b>: dhrubajyoti98@gmail.com, alumni.iitm.ac.in; dhrubajyoti.ra@nbrc.ac.in
 <li><b>Office</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India
 <li><b>Online</b>: <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">[Google Scholar]</a>, <a href="https://www.linkedin.com/in/dhrubajyoti-biswas/">[LinkedIn]</a>, and <a href="https://github.com/dhrubajyoti98">[Github]</a>.
-<li><b>Phone</b>: (+91)-9836705913, (+91)-9840916811
+<li><b>Phone</b>: (+91) 9836705913, 9840916811
 
 </ul>
