@@ -7,7 +7,7 @@ nav:
 - About: index.md
 - Research: research.md
 - Teaching: teaching.md
-- Miscellaneous: misc.md
+- Misc.: misc.md
 
 theme:
   name: material
