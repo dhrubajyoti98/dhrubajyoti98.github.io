@@ -3,13 +3,13 @@
 ##### Overview
 
 
-<p align="justify" style="font-size:15px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to <b>emergent phenomena</b>.</p> 
-<p align="justify" style="font-size:15px">Some of the central themes I explore include <b>synchronization</b> and <b>oscillation quenching</b> in dynamical systems, which describes how individual units coordinate their behavior to exhibit collective motion. These are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research involves simulations, which requires the usage of <b>high-performance computing</b> APIs such as OpenMP and OpenACC on GPU-equipped clusters.</p> 
-<p align="justify" style="font-size:15px">Thus, by combining <b>nonlinear dynamics</b>, <b>network theory</b>, and <b>high-performance computing</b>, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p>
+<p align="justify" style="font-size:14px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, and their collective dynamics often give rise to <b>emergent phenomena</b>.</p> 
+<p align="justify" style="font-size:14px">Some of the central themes I explore include <b>synchronization</b> and <b>oscillation quenching</b> in dynamical systems, which describes how individual units coordinate their behavior to exhibit collective motion. These are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research involves simulations, which requires the usage of <b>high-performance computing</b> APIs such as OpenMP and OpenACC on GPU-equipped clusters.</p> 
+<p align="justify" style="font-size:14px">Thus, by combining <b>nonlinear dynamics</b>, <b>network theory</b>, and <b>high-performance computing</b>, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p>
 
 ##### Publications
 
-<ol align="justify" style="font-size:15px">
+<ol align="justify" style="font-size:14px">
 <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth; "Effect of higher-order interactions on aging transitions of coupled neurons", Accepted in Chaos, Solitons & Fractals.
 
 <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator", Phys. Rev. E 112 (2 Aug. 2025), p. 024207. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
@@ -30,7 +30,7 @@
 
 ##### Conferences, Workshops, Talks etc.
 
-<ol align="justify" style="font-size:15px">
+<ol align="justify" style="font-size:14px">
 <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
 <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
 <li> <b>WINQ Program on Complex and Quantum systems 2024</b>, NORDITA, Sweden; <em>Contribution: Oral presentation</em>. [<a href="https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems">Link</a>]
