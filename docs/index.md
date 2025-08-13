@@ -23,7 +23,7 @@
 
 ##### Experience
 
-<ul style="font-size:14px">
+<ul align="justify" style="font-size:14px">
 <li> Postdoc. (Sept. 2024 - now), <b>National Brain Research Centre Gurgaon</b>
 <li> Intern. (May - July, 2018), <b>Indian Institute of Science Education and Research Kolkata</b>
 </ul>
@@ -31,7 +31,7 @@
 
 ##### Academics
 
-<ul style="font-size:14px">
+<ul align="justify" style="font-size:14px">
 <li> <a href="/PhD/index.html">M.Sc. & Ph.D.</a> in Physics (2017 - 2024), <b>Indian Institute of Technology Madras</b>
 <li> <a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc.</a> with Hons. in Physics (2014 - 2017), <b>St. Xavier's College, University of Calcutta</b>
 </ul>
@@ -40,7 +40,7 @@
 
 ##### Contact
 
-<ul align=justify style="font-size:14px">
+<ul align="justify" style="font-size:14px">
 <li><b>Emails</b>: dhrubajyoti98 [at] gmail.com, alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in
 <li><b>Office</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India
 <li><b>Online</b>: <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">[Google Scholar]</a>, <a href="https://www.linkedin.com/in/dhrubajyoti-biswas/">[LinkedIn]</a>, and <a href="https://github.com/dhrubajyoti98">[Github]</a>.
