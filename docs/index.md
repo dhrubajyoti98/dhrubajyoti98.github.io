@@ -16,6 +16,7 @@
 <td>
 <p align="justify" style="font-size:13px">I pursued my B.Sc. with an honors in Physics from St. Xavier’s College Kolkata, after which I completed my M.Sc. in Physics at the Indian Institute of Technology (IIT) Madras. Subsequently, I pursued my doctoral research at IIT Madras, focusing on the theoretical and computational analysis of complex dynamical systems.</p>
 <p align="justify" style="font-size:13px">Currently, I am a postdoctoral researcher at the National Brain Research Centre (NBRC) in Gurgaon, where I work in the Cognitive Brain Dynamics Lab, investigating the dynamics of brain networks through the lens of nonlinear dynamics and computational modeling.</p>
+<p align="justify" style="font-size:13px">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a> [PDF].</p>
 </td>
 </tr>
 </table>
@@ -36,7 +37,7 @@
 <li> <a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc.</a> with Hons. in Physics (2014 - 2017), <b>St. Xavier's College, University of Calcutta</b>
 </ul>
 
-<p align="justify" style="font-size:14px">For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">resume</a>.</p>
+
 
 ##### Contact
 
