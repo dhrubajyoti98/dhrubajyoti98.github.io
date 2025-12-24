@@ -1,11 +1,11 @@
 # Details of PhD
 
 
-##### Title
+#### Title
 
 <p style="font-size:14px">Emergent Dynamics in Large-ordered Complex Systems</p>
 
-##### Short Summary
+#### Short Summary
 
 
 <p align="justify" style="font-size:14px">
@@ -13,20 +13,20 @@ This thesis explores the occurrence of emergent phenomena in various high-dimens
 </p>
 
 
-##### Advisors
+#### Advisors
 
 <ul align="justify" style="font-size:14px">
 <li> <a href="https://sites.google.com/view/madhok">Prof. Vaibhav Madhok</a>, Department of Physics, Indian Institute of Technology Madras.
 <li> <a href="https://home.iitm.ac.in/sayan/">Prof. Sayan Gupta</a>, Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras.</p>
 </ul>
 
-##### Thesis Examiner
+#### Thesis Examiner
 
 <ul align="justify" style="font-size:14px">
 <li> <a href="https://web.iisermohali.ac.in/dept/physics/Sudeshna_Sinha.html">Prof. Sudeshna Sinha</a>, Department of Physical Sciences, Indian Institute of Science Education and Research Mohali.
 </ul>
 
-##### Links
+#### Links
 
 <ul align="justify" style="font-size:14px">
 <li> Thesis: (a) <a href="https://shodhganga.inflibnet.ac.in/handle/10603/609844">Chapterwise PDFs</a>, via Shodhganga; (b) <a href="https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing">Compiled PDF</a>, via Google Drive.
