@@ -7,7 +7,7 @@ nav:
 - Biosketch: index.md
 - Research: research.md
 - Teaching: teaching.md
-- Misc.: misc.md
+- Others: misc.md
 
 theme:
   name: material

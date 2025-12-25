@@ -1,4 +1,4 @@
-# Misc.
+# Others
 
 #### Awards & Grants
 <ul align="justify" style="font-size:14px">
