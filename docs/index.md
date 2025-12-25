@@ -27,7 +27,7 @@
 <li> Intern. (May - July, 2018), <b>Indian Institute of Science Education and Research Kolkata</b>
 </ul>
 
-#### Academics
+#### Education
 
 <ul align="justify" style="font-size:14px">
 <li> <a href="/PhD/index.html">M.Sc. & Ph.D.</a> in Physics (2017 - 2024), <b>Indian Institute of Technology Madras</b>
