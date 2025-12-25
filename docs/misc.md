@@ -1,6 +1,6 @@
 # Others
 
-#### Awards & Grants
+### Awards & Grants
 <ul align="justify" style="font-size:15px">
 <li>Institute Postdoctoral Fellowship, IIT-Kharagpur (2025).
 <li>Travel grant (500 Euros) to attend QSYNC25.

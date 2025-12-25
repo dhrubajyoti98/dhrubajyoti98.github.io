@@ -1,6 +1,6 @@
 # Teaching
 
-#### At IIT Madras
+### At IIT Madras
 
 <ul align="justify" style="font-size:15px">
 <li> Teaching Assistant for PH1010-Physics I, PH1030-Physics Laboratory I, and PH5500-Dynamical Systems. </li>

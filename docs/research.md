@@ -1,6 +1,6 @@
 # Research
 
-#### Overview
+### Overview
 
 
 <p align="justify" style="font-size:15px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 
@@ -8,7 +8,7 @@
 
 <!-- <p align="justify" style="font-size:14px">Thus, by combining <b>nonlinear dynamics</b>, <b>network theory</b>, and <b>high-performance computing</b>, my work aims to deepen our understanding of how complex interactions shape large-scale systems across disciplines.</p> -->
 
-#### Publications
+### Publications
 
 <ol align="justify" style="font-size:15px">
 <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth; "Effect of higher-order interactions on aging transitions of coupled neurons", Chaos, Solitons & Fractals 200 (2025), p. 116977. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
@@ -29,7 +29,7 @@
 </ol>
 
 
-#### Conferences, Workshops, Talks etc.
+### Conferences, Workshops, Talks etc.
 
 <ol align="justify" style="font-size:15px">
 <li> <b>Five-Day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited keynote presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>]
