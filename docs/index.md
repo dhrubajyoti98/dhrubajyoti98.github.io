@@ -28,7 +28,7 @@
 <tr>
     <th>Position</th>
     <th>Tenure</th>
-    <th>Department/Institute</th>
+    <th>Institute</th>
   </tr>
   <!-- <tr>
     <td>Postdoc.</td>
@@ -54,7 +54,7 @@
 <tr>
     <th>Degree</th>
     <th>Tenure</th>
-    <th>Department/Institute</th>
+    <th>Institute</th>
   </tr>
   <tr>
     <td><a href="/PhD/index.html">M.Sc.-Ph.D.</a> (Dual Degree) in Physics</td>
