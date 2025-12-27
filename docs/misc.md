@@ -2,7 +2,7 @@
 
 ### Awards & Grants
 <ul align="justify" style="font-size:15px">
-<li>Institute Postdoctoral Fellowship, IIT-Kharagpur (2025).
+<li>Institute Postdoctoral Fellowship, IIT Kharagpur (Awarded December 2025).
 <li>Travel grant (500 Euros) to attend QSYNC25.
 <li>Travel grant (600 USD) to attend WINQ Program in Complex & Quantum Systems 2024.
 <li>Research Fellowship for PhD (2019 - 2024) & MCM Scholarship for MSc (2017 - 2019), IIT Madras.
