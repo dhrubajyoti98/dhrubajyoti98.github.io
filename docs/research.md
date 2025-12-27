@@ -6,27 +6,27 @@
 <p align="justify" style="font-size:15px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 
 <p align="justify" style="font-size:15px">The central theme of my research include areas such as <b>synchronization</b> and <b>robustness</b> of dynamical systems, which are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research also involves large-scale numerical simulations, thereby requiring the usage of <b>high-performance computing</b> APIs such as OpenMP on hardware such GPU-equipped workstations and clusters.</p> 
 
-### Peer-Reviewed Publications (Journals, Proceedings, etc.)
+### Publications (Journals, Proceedings, etc.)
 
 <ol align="justify" style="font-size:15px">
 
-<li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee; "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions" - Accepted in <i>Chaos, Solitons & Fractals</i>.
+<li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". Accepted in <i>Chaos, Solitons & Fractals</i>.
 
-<li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth; "Effect of higher-order interactions on aging transitions of coupled neurons" - <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
 
-<li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator" - <i>Phys. Rev. E 112 (2 Aug. 2025), p. 024207</i>. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
+<li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>. "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator". <i>Phys. Rev. E 112 (2 Aug. 2025), p. 024207</i>. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Symmetry-breaking higher-order interactions in coupled phase oscillators" - <i>Chaos, Solitons & Fractals 181 (2024), p. 114721</i>. [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Symmetry-breaking higher-order interactions in coupled phase oscillators". <i>Chaos, Solitons & Fractals 181 (2024), p. 114721</i>. [<a href="https://doi.org/10.1016/j.chaos.2024.114721">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Effect of adaptation functions and multilayer topology on synchronization" - <i>Phys. Rev. E 109 (2 Feb. 2024), p. 024221</i>. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024221">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Effect of adaptation functions and multilayer topology on synchronization". <i>Phys. Rev. E 109 (2 Feb. 2024), p. 024221</i>. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024221">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators" - <i>Advances in Nonlinear Dynamics, Volume II. Ed. by Walter Lacarbonara. Springer Nature Switzerland, 2024, pp. 131–141</i>. [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators". <i>Advances in Nonlinear Dynamics, Volume II. Ed. by Walter Lacarbonara. Springer Nature Switzerland, 2024, pp. 131–141</i>. [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Mirroring of synchronization in a bi-layer master–slave configuration of Kuramoto oscillators" - <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 32.9 (2022), p. 093148</i>. [<a href="https://doi.org/10.1063/5.0109797">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Mirroring of synchronization in a bi-layer master–slave configuration of Kuramoto oscillators". <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 32.9 (2022), p. 093148</i>. [<a href="https://doi.org/10.1063/5.0109797">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta; "Ageing transitions in a network of Rulkov neurons" - <i>Scientific Reports 12.1 (2022), p. 433</i>. [<a href="https://www.nature.com/articles/s41598-021-03844-1">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Ageing transitions in a network of Rulkov neurons". <i>Scientific Reports 12.1 (2022), p. 433</i>. [<a href="https://www.nature.com/articles/s41598-021-03844-1">Link</a>]
 
-<li> <b>Dhrubajyoti Biswas</b>, Soumyajit Seth, and Mita Bor; "A Study of the Dynamics of a New Piecewise Smooth Map" - <i>International Journal of Bifurcation and Chaos 30.01 (2020), p. 2050018</i>. [<a href="https://doi.org/10.1142/s0218127420500182">Link</a>]
+<li> <b>Dhrubajyoti Biswas</b>, Soumyajit Seth, and Mita Bor. "A Study of the Dynamics of a New Piecewise Smooth Map". <i>International Journal of Bifurcation and Chaos 30.01 (2020), p. 2050018</i>. [<a href="https://doi.org/10.1142/s0218127420500182">Link</a>]
 </ol>
 
 

@@ -57,7 +57,7 @@
     <th>Institute</th>
   </tr>
   <tr>
-    <td><a href="/PhD/index.html">M.Sc.-Ph.D.</a> (Dual Degree) in Physics</td>
+    <td><a href="/phd/index.html">M.Sc.-Ph.D.</a> (Dual Degree) in Physics</td>
     <td>24th July, 2017 &#8212; 18th July, 2024</td>
     <td>Indian Institute of Technology Madras</td>
   </tr>
