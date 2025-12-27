@@ -11,6 +11,8 @@
 ### Publications
 
 <ol align="justify" style="font-size:15px">
+<li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee; "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions", Accepted in Chaos, Solitons & Fractals.
+
 <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth; "Effect of higher-order interactions on aging transitions of coupled neurons", Chaos, Solitons & Fractals 200 (2025), p. 116977. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
 
 <li> Somnath Roy, Chitrak Bhadra, and <b>Dhrubajyoti Biswas</b>; "Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator", Phys. Rev. E 112 (2 Aug. 2025), p. 024207. [<a href="https://journals.aps.org/pre/accepted/10.1103/h76f-2mbl">Link</a>]
