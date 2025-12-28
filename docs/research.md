@@ -1,6 +1,6 @@
 # Research
 
-## Overview of Research Area
+## Overview
 
 
 <p align="justify" style="font-size:16px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 

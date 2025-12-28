@@ -8,6 +8,7 @@ nav:
 - Research: research.md
 - Teaching: teaching.md
 - Others: others.md
+- CV: https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view
 
 theme:
   name: material
@@ -30,7 +31,7 @@ theme:
 
   palette:
     primary: black
-    accent: red
+    accent: blue
 
 plugins:
   - social
@@ -47,11 +48,15 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:dhrubajyoti98@gmail.com
     - icon: fontawesome/brands/google-scholar
-      link: mailto:dhrubajyoti98@gmail.com
+      link: https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en
+    - icon: fontawesome/brands/github
+      link: https://github.com/dhrubajyoti98
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/dhrubajyoti98/
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/djbiswas98
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/pushhu/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/dhrubajyoti.biswas1/
     

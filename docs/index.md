@@ -12,10 +12,10 @@
 
 <table width=“100%” border=“0” style="font-size:17.5px">
 <tr>
-<td class="example1"><img src="img/dp.jpeg" width="600"></td>
+<td class="example1"><img src="img/dp.jpeg" width="625"></td>
 <td>
 <p align="justify">I am a postdoctoral researcher at the National Brain Research Centre (NBRC) in Gurgaon, where I work in the Cognitive Brain Dynamics Lab, investigating the dynamics of brain networks through the lens of nonlinear dynamics and computational modeling.</p>
-<p align="justify">I obtained my B.Sc. with an Honors in Physics from St. Xavier’s College Kolkata. Subsequently, I completed my M.Sc. and Ph.D. in Physics at the Indian Institute of Technology (IIT) Madras, focusing on the theoretical and computational analysis of complex dynamical systems. For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">[resume]</a>.</p>
+<p align="justify">I obtained my B.Sc. with an Honors in Physics from St. Xavier’s College Kolkata, which included a special paper on nonlinear dynamics. Subsequently, I completed my M.Sc. and Ph.D. in Physics at the Indian Institute of Technology (IIT) Madras, focusing on the theoretical and computational analysis of complex dynamical systems.</p>
 </td>
 </tr>
 </table>
@@ -30,11 +30,11 @@
     <th>Tenure</th>
     <th>Institute</th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Postdoc.</td>
     <td>Starting - 1st January, 2026.</td>
     <td>Department of Physics, Indian Institute of Technology Kharagpur</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Postdoc.</td>
     <td>17th September, 2024 &#8212; <b>now</b> </td>
@@ -72,6 +72,8 @@
 
 ## Contact
 
-<p align="justify" style="font-size:16px"><b>Office Address</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India.<br>
-<b>Email Address</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in.</p>
+<p align="justify" style="font-size:16px">
+<b>Office Address</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India.<br>
+<b>Email Address</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in.
+</p>
 
