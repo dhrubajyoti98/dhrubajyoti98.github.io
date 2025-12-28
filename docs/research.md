@@ -1,14 +1,14 @@
 # Research
 
-### Overview of Research Area
+## Overview of Research Area
 
 
-<p align="justify" style="font-size:15px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 
-<p align="justify" style="font-size:15px">The central theme of my research include areas such as <b>synchronization</b> and <b>robustness</b> of dynamical systems, which are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research also involves large-scale numerical simulations, thereby requiring the usage of <b>high-performance computing</b> APIs such as OpenMP on hardware such GPU-equipped workstations and clusters.</p> 
+<p align="justify" style="font-size:16px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 
+<p align="justify" style="font-size:16px">The central theme of my research include areas such as <b>synchronization</b> and <b>robustness</b> of dynamical systems, which are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research also involves large-scale numerical simulations, thereby requiring the usage of <b>high-performance computing</b> APIs such as OpenMP on hardware such GPU-equipped workstations and clusters.</p> 
 
-### Publications (Journals, Proceedings, etc.)
+## Publications
 
-<ol align="justify" style="font-size:15px">
+<ol align="justify" style="font-size:16px">
 
 <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". Accepted in <i>Chaos, Solitons & Fractals</i>.
 
@@ -30,9 +30,9 @@
 </ol>
 
 
-### Conferences, Workshops, Talks, etc.
+## Conferences, Talks, etc.
 
-<ol align="justify" style="font-size:15px">
+<ol align="justify" style="font-size:16px">
 <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited keynote presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>]
 <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
 <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]

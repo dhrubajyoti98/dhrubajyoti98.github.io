@@ -7,7 +7,7 @@ nav:
 - Home: index.md
 - Research: research.md
 - Teaching: teaching.md
-- Others: misc.md
+- Others: others.md
 
 theme:
   name: material
@@ -18,12 +18,15 @@ theme:
   user_color_mode_toggle: light
   nav_style: dark
   features:
+    - navigation.top
     - navigation.instant
     - navigation.instant.progress
     - header.autohide
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - toc.integrate
+    - navigation.sections
 
   palette:
     primary: black
@@ -37,15 +40,21 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - toc:
-      toc_depth: 0
+      toc_depth: 2
 
 extra:
   social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:dhrubajyoti98@gmail.com
+    - icon: fontawesome/brands/google-scholar
+      link: mailto:dhrubajyoti98@gmail.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dhrubajyoti98/
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/djbiswas98
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/dhrubajyoti.biswas1/
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/dhrubajyoti98/
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:dhrubajyoti98@gmail.com
+    
+    
+extra_css:
+  - stylesheets/extra.css
