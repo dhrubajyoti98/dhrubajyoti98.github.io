@@ -12,7 +12,7 @@ nav:
 theme:
   name: material
   font:
-    text: Varela
+    text: Open Sans
   logo: img/favicon.ico
   favicon: img/favicon.ico
   user_color_mode_toggle: light
@@ -21,6 +21,9 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
 
   palette:
     primary: black
@@ -35,3 +38,14 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - toc:
       toc_depth: 0
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/djbiswas98
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/dhrubajyoti.biswas1/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dhrubajyoti98/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:dhrubajyoti98@gmail.com

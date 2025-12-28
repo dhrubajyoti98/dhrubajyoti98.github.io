@@ -12,7 +12,7 @@
 
 <table width=“100%” border=“0” cellpadding=“0” cellspacing=“0”>
 <tr>
-<td class="example1"><img src="img/dp.jpeg" width="1400"></td>
+<td class="example1"><img src="img/dp.jpeg" width="1150"></td>
 <td>
 <p align="justify" style="font-size:15px">I am a postdoctoral researcher at the National Brain Research Centre (NBRC) in Gurgaon, where I work in the Cognitive Brain Dynamics Lab, investigating the dynamics of brain networks through the lens of nonlinear dynamics and computational modeling.</p>
 <p align="justify" style="font-size:15px">I obtained my B.Sc. with an Honors in Physics from St. Xavier’s College Kolkata, after which I completed my M.Sc. in Physics at the Indian Institute of Technology (IIT) Madras. Subsequently, I pursued my doctoral research at IIT Madras, focusing on the theoretical and computational analysis of complex dynamical systems. For detailed information, see my <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view">[resume]</a>.</p>
@@ -36,7 +36,7 @@
     <td>Indian Institute of Technology Kharagpur</td>
   </tr> -->
   <tr>
-    <td>Postdoc.</td>
+    <td>Postdoctoral Fellow</td>
     <td>17th September, 2024 &#8212; <b>now</b> </td>
     <td>National Brain Research Centre Gurgaon</td>
   </tr>
@@ -73,7 +73,6 @@
 ### Contact
 
 <ul align="justify" style="font-size:15px">
-<li><b>Emails</b>: dhrubajyoti98 [at] gmail.com, alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in
+<li><b>Emails</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in
 <li><b>Office</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India
-<li><b>Online</b>: <a href="https://scholar.google.co.in/citations?user=2OR7h7kAAAAJ&hl=en">[Google Scholar]</a>, <a href="https://www.linkedin.com/in/dhrubajyoti-biswas/">[LinkedIn]</a>, <a href="https://github.com/dhrubajyoti98">[Github]</a>.
 </ul>
