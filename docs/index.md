@@ -10,7 +10,7 @@
 
 ## Biosketch
 
-<table width=“100%” border=“0” style="font-size:17.5px">
+<table width=“100%” border=“0” style="font-size:17px">
 <tr>
 <td class="example1"><img src="img/dp.jpeg" width="625"></td>
 <td>
@@ -24,7 +24,7 @@
 
 ## Experience
 
-<table border=“0” cellpadding=“0” cellspacing=“0” style="font-size:16px">
+<table border=“0” cellpadding=“0” cellspacing=“0” style="font-size:15px">
   <tr>
     <th>Position</th>
     <th>Tenure</th>
@@ -43,14 +43,14 @@
   <tr>
     <td>Summer Research Intern.</td>
     <td>18th May, 2018 &#8212; 13th July, 2018</td>
-    <td>Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata</td>
+    <td>Indian Institute of Science Education and Research Kolkata</td>
   </tr>
 </table>
 
 
 ## Education
 
-<table border=“0” cellpadding=“0” cellspacing=“0” style="font-size:16px">
+<table border=“0” cellpadding=“0” cellspacing=“0” style="font-size:15px">
 <tr>
     <th>Degree</th>
     <th>Tenure</th>
@@ -62,7 +62,7 @@
     <td>Department of Physics, Indian Institute of Technology Madras</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc.</a> with Hons. in Physics</td>
+    <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc.</a> (Hons. in Physics)</td>
     <td>2nd August, 2014 &#8212; 30th June, 2017</td>
     <td>Department of Physics, St. Xavier's College, University of Calcutta</td>
   </tr>
