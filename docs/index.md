@@ -30,15 +30,15 @@
     <th>Tenure</th>
     <th>Institute</th>
   </tr>
-  <!-- <tr>
-    <td>Postdoc.</td>
-    <td>Starting - 1st January, 2026.</td>
-    <td>Department of Physics, Indian Institute of Technology Kharagpur</td>
-  </tr> -->
   <tr>
     <td>Postdoc.</td>
-    <td>17th September, 2024 &#8212; <b>now</b> </td>
-    <td>Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</td>
+    <td>1st January, 2026 &#8212; now</td>
+    <td>Indian Institute of Technology Kharagpur</td>
+  </tr>
+  <tr>
+    <td>Postdoc.</td>
+    <td>17th September, 2024 &#8212; 30th December, 2025</td>
+    <td>National Brain Research Centre Gurgaon</td>
   </tr>
   <tr>
     <td>Summer Research Intern.</td>
@@ -57,14 +57,14 @@
     <th>Institute</th>
   </tr>
   <tr>
-    <td><a href="/phd/index.html">M.Sc.-Ph.D.</a> (Dual Degree) in Physics</td>
+    <td><a href="/phd/index.html">M.Sc.-Ph.D. (Dual Degree) in Physics</a></td>
     <td>24th July, 2017 &#8212; 18th July, 2024</td>
-    <td>Department of Physics, Indian Institute of Technology Madras</td>
+    <td>Indian Institute of Technology Madras</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc.</a> (Hons. in Physics)</td>
+    <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc. with Honours in Physics</a></td>
     <td>2nd August, 2014 &#8212; 30th June, 2017</td>
-    <td>Department of Physics, St. Xavier's College, University of Calcutta</td>
+    <td>St. Xavier's College (Autonomous), University of Calcutta</td>
   </tr>
 </table>
 
