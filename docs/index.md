@@ -12,7 +12,7 @@
 
 <table width=“100%” border=“0” style="font-size:17px">
 <tr>
-<td class="example1"><img src="img/dp.jpeg" width="700"></td>
+<td class="example1"><img src="img/dp.jpeg" width="680"></td>
 <td>
 <p align="justify">Currently, I am a postdoctoral researcher at the Department of Physics, IIT Kharagpur, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was at NBRC Gurgaon, working in the <a href="https://cbdlnbrc.weebly.com/">Cognitive Brain Dynamics Lab</a>.</p>
 <p align="justify">I work at the intersection of nonlinear dynamics, complex networks, and computational modeling. I obtained my B.Sc. with an Honors in Physics from St. Xavier’s College Kolkata, which included a special paper on nonlinear dynamics. Subsequently, I completed my M.Sc. and Ph.D. in Physics at the IIT Madras, focusing on the theoretical and computational analysis of dynamical systems.</p>
