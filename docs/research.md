@@ -10,7 +10,7 @@
 
 <ol align="justify" style="font-size:16px">
 
-<li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". Accepted in <i>Chaos, Solitons & Fractals</i>.
+<li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
 
 <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
 

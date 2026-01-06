@@ -29,25 +29,21 @@
     <th>Position</th>
     <th>Tenure</th>
     <th>Institute</th>
-    <th>Details</th>
   </tr>
   <tr>
-    <td>Postdoctoral Fellow</td>
-    <td>1st January, 2026 &#8212; now</td>
+    <td>Postdoc.</td>
+    <td>1st January, 2026 &#8212; <b>now</b></td>
     <td>Indian Institute of Technology Kharagpur</td>
-    <td>Supervisor: Prof. Pintu Patra</td>
   </tr>
   <tr>
-    <td>Postdoctoral Fellow</td>
+    <td>Postdoc.</td>
     <td>17th September, 2024 &#8212; 30th December, 2025</td>
     <td>National Brain Research Centre Gurgaon</td>
-    <td>Supervisor: Prof. Arpan Banerjee</td>
   </tr>
   <tr>
-    <td>Summer Research Internship</td>
+    <td>Research Internship</td>
     <td>18th May, 2018 &#8212; 13th July, 2018</td>
     <td>Indian Institute of Science Education and Research Kolkata</td>
-    <td>Supervisor: Prof. Soumitro Banerjee</td>
   </tr>
 </table>
 
@@ -59,19 +55,16 @@
     <th>Degree</th>
     <th>Tenure</th>
     <th>Institute</th>
-    <th>Details</th>
   </tr>
   <tr>
     <td><a href="/phd/index.html">M.Sc.-Ph.D. (Dual Degree) in Physics</a></td>
     <td>24th July, 2017 &#8212; 18th July, 2024</td>
     <td>Indian Institute of Technology Madras</td>
-    <td>Supervisors: Prof. Sayan Gupta, Prof. Vaibhav Madhok</td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc. with Honours in Physics</a></td>
     <td>2nd August, 2014 &#8212; 30th June, 2017</td>
-    <td>St. Xavier's College (Autonomous), University of Calcutta</td>
-    <td>Supervisor: Prof. Shibaji Banerjee</td>
+    <td>St. Xavier's College (Autonomous), under University of Calcutta</td>
   </tr>
 </table>
 
