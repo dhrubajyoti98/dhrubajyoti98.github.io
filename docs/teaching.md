@@ -1,5 +1,12 @@
 # Teaching
 
+## AT IIT Kharagpur
+
+<ul align="justify" style="font-size:16px">
+<li> Teaching Assistant for PH19003-1st year Physics Lab. </li>
+</ul>
+
+
 ## At IIT Madras
 
 <ul align="justify" style="font-size:16px">
