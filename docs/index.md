@@ -73,7 +73,7 @@
 ## Contact
 
 <p align="justify" style="font-size:16px">
-<b>Office Address</b>: Room 009, MRI Building, NBRC Gurgaon, Haryana, 122052, India.<br>
-<b>Email Address</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti.ra [at] nbrc.ac.in.
+<b>Office Address</b>: Room C-113, IIT Kharagpur, West Bengal, 721302, India.<br>
+<b>Email Address</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti [at] phy.iitkgp.ac.in.
 </p>
 
