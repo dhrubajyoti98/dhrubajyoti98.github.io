@@ -31,12 +31,12 @@
     <th>Institute</th>
   </tr>
   <tr>
-    <td>Postdoctoral Fellow</td>
+    <td>Postdoc. Fellow</td>
     <td>1st January, 2026 &#8212; <b>now</b></td>
     <td>Dept. of Physics, Indian Institute of Technology Kharagpur</td>
   </tr>
   <tr>
-    <td>Postdoctoral Fellow</td>
+    <td>Postdoc. Fellow</td>
     <td>17th September, 2024 &#8212; 30th December, 2025</td>
     <td>Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</td>
   </tr>
