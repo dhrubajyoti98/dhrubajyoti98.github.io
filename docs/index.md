@@ -74,6 +74,6 @@
 
 <p align="justify" style="font-size:16px">
 <b>Office Address</b>: Room C-113, IIT Kharagpur, West Bengal, 721302, India.<br>
-<b>Email Address</b>: dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti [at] phy.iitkgp.ac.in.
+<b>Email Address</b>: dhrubajyoti98 [at] gmail.com; dhrubajyoti98 [at] alumni.iitm.ac.in; dhrubajyoti [at] phy.iitkgp.ac.in.
 </p>
 
