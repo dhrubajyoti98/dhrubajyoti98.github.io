@@ -12,10 +12,9 @@
 
 <table width=“100%” border=“0” style="font-size:17px">
 <tr>
-<td class="example1"><img src="img/dp.jpeg" width="700"></td>
+<td class="example1"><img src="img/dp.jpeg" width="800"></td>
 <td>
-<p align="justify">Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com/">Cognitive Brain Dynamics Lab</a>.</p>
-<p align="justify">I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://sxccal.edu/">St. Xavier’s College Kolkata</a>. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the <a href="https://www.iitm.ac.in/">IIT Madras</a>, focusing on the theoretical and computational analysis of dynamical systems.</p>
+<p align="justify">I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://sxccal.edu/">St. Xavier’s College Kolkata</a>. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the <a href="https://www.iitm.ac.in/">IIT Madras</a>, focusing on the theoretical and computational analysis of dynamical systems. Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com/">Cognitive Brain Dynamics Lab</a>.</p>
 </td>
 </tr>
 </table>
