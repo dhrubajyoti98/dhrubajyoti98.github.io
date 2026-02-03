@@ -19,6 +19,3 @@
 <li> Member (January 2025 - now), Institute of Physics, UK
 </ul>
 
-## Miscellaneous
-
-<p style="font-size:16px"> Like my resume layout? Here are the .tex <a href="https://github.com/dhrubajyoti98/CV_DhrubajyotiBiswas">files</a>.</p>
