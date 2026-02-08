@@ -3,8 +3,7 @@
 ## Overview
 
 
-<p align="justify" style="font-size:16px">My research deals with the study of <b>high-dimensional dynamical systems</b>, particularly those that are modeled using the mathematical framework of <b>complex networks</b>. These systems are characterized by a large number of interacting components, with their collective dynamics often giving rise to <b>emergent phenomena</b>. My work aims to deepen our understanding of how such complex interactions shape large-scale systems across different disciplines.</p> 
-<p align="justify" style="font-size:16px">The central theme of my research include areas such as <b>synchronization</b> and <b>robustness</b> of dynamical systems, which are not only of theoretical interest but also finds relevance across a wide spectrum of real-world systems. A major part of my research also involves large-scale numerical simulations, thereby requiring the usage of <b>high-performance computing</b> APIs such as OpenMP on hardware such GPU-equipped workstations and clusters.</p> 
+<p align="justify" style="font-size:16px">My research primarily deals with <b>high-dimensional dynamical systems</b>, particularly those described by <b>nonlinear</b> and <b>complex network</b> models. Such systems are typically comprised of a large number of interacting components, with their collective behavior leading to <b>emergent phenomena</b> such as synchronization. By using analytical and computational tools, my work aims to improve our understanding of the connections between different microscopic interaction patterns and observed macroscopic behavior, with applications in bio-physical and engineering systems across different domains.</p> 
 
 ## Publications
 
