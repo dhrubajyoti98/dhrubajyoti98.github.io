@@ -7,7 +7,7 @@
 
 ## Publications
 
-<ol align="justify" style="font-size:16px">
+<ol align="justify" style="font-size:16px" reversed>
 
 <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
 
@@ -31,7 +31,7 @@
 
 ## Conferences, Talks, etc.
 
-<ol align="justify" style="font-size:16px">
+<ol align="justify" style="font-size:16px" reversed>
 <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India; <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]
 <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>]
 <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
