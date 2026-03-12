@@ -43,7 +43,7 @@ I work at the intersection of nonlinear dynamics, complex networks, high-perform
     <th>Institute</th>
   </tr>
   <tr>
-    <td><a href="/phd/index.html">M.Sc. and Ph.D. in Physics</a></td>
+    <td><a href="/phd/index.html">M.Sc. and Ph.D. (Dual Degree) in Physics</a></td>
     <td>24th July, 2017 — 18th July, 2024</td>
     <td>Dept. of Physics, Indian Institute of Technology Madras</td>
   </tr>
