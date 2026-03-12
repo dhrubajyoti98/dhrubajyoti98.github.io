@@ -11,7 +11,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 ## Publications
 
-=== "Journal papers"
+=== "Journals"
     <ol align="justify" reversed>
     <li> <b>Dhrubajyoti Biswas</b> and Arpan Banerjee. "Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions". <i>Chaos, Solitons & Fractals 205 (2026), p. 117840</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.117840">Link</a>]
     <li> <b>Dhrubajyoti Biswas</b> and Soumyajit Seth. "Effect of higher-order interactions on aging transitions of coupled neurons". <i>Chaos, Solitons & Fractals 200 (2025), p. 116977</i>. [<a href="https://doi.org/10.1016/j.chaos.2025.116977">Link</a>]
@@ -23,14 +23,14 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     <li> <b>Dhrubajyoti Biswas</b>, Soumyajit Seth, and Mita Bor. "A Study of the Dynamics of a New Piecewise Smooth Map". <i>International Journal of Bifurcation and Chaos 30.01 (2020), p. 2050018</i>. [<a href="https://doi.org/10.1142/s0218127420500182">Link</a>]
     </ol>
 
-=== "Proceedings/Chapters"
+=== "Proceedings"
     <ol align="justify" reversed>
     <li> <b>Dhrubajyoti Biswas</b> and Sayan Gupta. "Mirroring of Synchronization in Multilayer Configuration of Kuramoto Oscillators". <i>Advances in Nonlinear Dynamics, Volume II. Ed. by Walter Lacarbonara. Springer Nature Switzerland, 2024, pp. 131–141</i>. [<a href="https://doi.org/10.1007/978-3-031-50639-0_12">Link</a>]
     </ol>
 
 ## Others
 
-=== "Conferences/Meetings"
+=== "Conferences & Meetings"
     <ol align="justify" reversed>
     <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India; <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]
     <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
@@ -43,7 +43,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]
     </ol>
 
-=== "Schools/Workshops/Courses"
+=== "Schools, Workshops, etc."
     <ol align="justify" reversed>
     <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>]
     <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]

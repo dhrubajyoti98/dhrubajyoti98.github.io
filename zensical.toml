@@ -189,7 +189,7 @@ toggle.name = "Switch to light mode"
 logo = "lucide/crown"
 
 [project.extra]
-generator = false
+#generator = false
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
