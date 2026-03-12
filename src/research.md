@@ -44,3 +44,6 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     <li> <b>Conference on Nonlinear Systems and Dynamics 2019</b>, IIT Kanpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/cnsd19/">Link</a>]
     <li> <b>National Summer School on Statistical Physics 2018</b>, SNBNCBS, Kolkata. [<a href="https://www.bose.res.in/Conferences/NSS2018/">Link</a>]
     </ol>
+
+=== "Schools/Workshops"
+    
