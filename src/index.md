@@ -10,50 +10,49 @@ Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a
 I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of dynamical systems.
 </p>
 
-## Experience
+## Career
+=== "Experience"
+    <table border=“0” cellpadding=“0” cellspacing=“0”>
+      <tr>
+        <th>Position</th>
+        <th>Tenure</th>
+        <th>Institute</th>
+      </tr>
+      <tr>
+        <td>Postdoc</td>
+        <td>1st January, 2026 — <b>now</b></td>
+        <td>Dept. of Physics, Indian Institute of Technology Kharagpur</td>
+      </tr>
+      <tr>
+        <td>Postdoc</td>
+        <td>17th September, 2024 — 30th December, 2025</td>
+        <td>Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</td>
+      </tr>
+      <tr>
+        <td>Research Intern.</td>
+        <td>18th May, 2018 — 13th July, 2018</td>
+        <td>Dept. of Physical Sciences, Indian Institute of Science Education and Research Kolkata</td>
+      </tr>
+    </table>
 
-<table border=“0” cellpadding=“0” cellspacing=“0”>
-  <tr>
-    <th>Position</th>
-    <th>Tenure</th>
-    <th>Institute</th>
-  </tr>
-  <tr>
-    <td>Postdoc</td>
-    <td>1st January, 2026 — <b>now</b></td>
-    <td>Dept. of Physics, Indian Institute of Technology Kharagpur</td>
-  </tr>
-  <tr>
-    <td>Postdoc</td>
-    <td>17th September, 2024 — 30th December, 2025</td>
-    <td>Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</td>
-  </tr>
-  <tr>
-    <td>Research Intern.</td>
-    <td>18th May, 2018 — 13th July, 2018</td>
-    <td>Dept. of Physical Sciences, Indian Institute of Science Education and Research Kolkata</td>
-  </tr>
-</table>
-
-## Education
-
-<table border=“0” cellpadding=“0” cellspacing=“0”>
-<tr>
-    <th>Degree</th>
-    <th>Tenure</th>
-    <th>Institute</th>
-  </tr>
-  <tr>
-    <td><a href="/phd/index.html">M.Sc. and Ph.D. (Dual Degree) in Physics</a></td>
-    <td>24th July, 2017 — 18th July, 2024</td>
-    <td>Dept. of Physics, Indian Institute of Technology Madras</td>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc. with Hons. in Physics</a></td>
-    <td>2nd August, 2014 — 30th June, 2017</td>
-    <td>Dept. of Physics, St. Xavier's College (Autonomous), University of Calcutta</td>
-  </tr>
-</table>
+=== "Education"
+    <table border=“0” cellpadding=“0” cellspacing=“0”>
+    <tr>
+        <th>Degree</th>
+        <th>Tenure</th>
+        <th>Institute</th>
+      </tr>
+      <tr>
+        <td><a href="/phd/index.html">M.Sc. and Ph.D. (Dual Degree) in Physics</a></td>
+        <td>24th July, 2017 — 18th July, 2024</td>
+        <td>Dept. of Physics, Indian Institute of Technology Madras</td>
+      </tr>
+      <tr>
+        <td><a href="https://drive.google.com/file/d/1kzH1EiCFbbcnvpbOTWJMMhiCC53tkvDD/view?usp=sharing">B.Sc. with Hons. in Physics</a></td>
+        <td>2nd August, 2014 — 30th June, 2017</td>
+        <td>Dept. of Physics, St. Xavier's College (Autonomous), University of Calcutta</td>
+      </tr>
+    </table>
 
 ## Contact
 
