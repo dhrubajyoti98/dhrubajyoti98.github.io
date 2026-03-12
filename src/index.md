@@ -6,7 +6,8 @@ icon: lucide/square-user
 ## Biosketch
 
 <p align="justify">
-I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from St. Xavier’s College Kolkata. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the IIT Madras, focusing on the theoretical and computational analysis of dynamical systems. Currently, I am a postdoc at IIT Kharagpur, working in the Active Matter and Biophysis Group. Prior to this, I was a postdoc at NBRC Gurgaon, working in the Cognitive Brain Dynamics Lab.
+Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>.
+I work at the intersection of nonlinear dynamics, complex networks, high-performance computing, and mathematical modeling of biophysical systems. I obtained my B.Sc. with an Honors in Physics from <a href="https://www.sxccal.edu">St. Xavier’s College, Kolkata</a>. Subsequently, I completed my M.Sc. and Ph.D. in Physics (as a dual degree) at the <a href="https://www.iitm.ac.in">IIT Madras</a>, focusing on the theoretical and computational analysis of dynamical systems.
 </p>
 
 ## Experience
@@ -28,7 +29,7 @@ I work at the intersection of nonlinear dynamics, complex networks, high-perform
     <td>Cognitive Brain Dynamics Lab, National Brain Research Centre Gurgaon</td>
   </tr>
   <tr>
-    <td>Summer Research Intern.</td>
+    <td>Research Intern.</td>
     <td>18th May, 2018 — 13th July, 2018</td>
     <td>Dept. of Physical Sciences, Indian Institute of Science Education and Research Kolkata</td>
   </tr>
