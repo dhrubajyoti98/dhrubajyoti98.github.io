@@ -30,7 +30,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 ## Others
 
-=== "Conferences & Meetings"
+=== "Conferences"
     <ol align="justify" reversed>
     <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India; <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]
     <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
