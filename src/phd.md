@@ -29,3 +29,7 @@ This thesis explores the occurrence of emergent phenomena in various high-dimens
 <li> Thesis: (a) <a href="https://shodhganga.inflibnet.ac.in/handle/10603/609844">Chapterwise PDFs</a>, via Shodhganga; (b) <a href="https://drive.google.com/file/d/1QKxT6dzrUIS2vTrCPzieXgS76XzqxmlU/view?usp=sharing">Compiled PDF</a>, via Google Drive.
 <li> <a href="https://drive.google.com/file/d/1e_EdV3adnDxSkRCMAQGF4_j8DAEQHmok/view?usp=sharing">Degree Certificates</a>, via Google Drive.
 </ul>
+
+## Timeline
+
+<p align="justify"><b>Registration</b> (08th April, 2019) - <b>Submission</b> (24th June, 2024) - <b>Defence</b> (12th July, 2024) - <b>Award</b> (18th July, 2024).</p>
