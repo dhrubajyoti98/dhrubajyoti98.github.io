@@ -3,7 +3,7 @@ icon: lucide/square-user
 ---
 # Home
 
-## Intro
+## Bio
 
 <p align="justify">
 Currently, I am a postdoc at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a>, working in the <a href="https://pintupatra05.wixsite.com/website">Active Matter and Biophysis Group</a>. Prior to this, I was a postdoc at <a href="https://www.nbrc.ac.in/newweb/">NBRC Gurgaon</a>, working in the <a href="https://cbdlnbrc.weebly.com">Cognitive Brain Dynamics Lab</a>.
@@ -43,7 +43,7 @@ I work at the intersection of nonlinear dynamics, complex networks, high-perform
         <th>Institute</th>
       </tr>
       <tr>
-        <td><a href="/phd/index.html">M.Sc. and Ph.D. (Dual Degree) in Physics</a></td>
+        <td><a href="/phd/index.html">M.Sc. - Ph.D. (Dual Degree) in Physics</a></td>
         <td>24th July, 2017 — 18th July, 2024</td>
         <td>Dept. of Physics, Indian Institute of Technology Madras</td>
       </tr>
