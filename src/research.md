@@ -45,7 +45,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 === "Schools, Workshops, etc."
     <ol align="justify" reversed>
-    <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>]
+    <li> <b>Five-day Workshop on Complex Network Analysis with Applications 2025</b>, IIIT Kottayam, India; <em>Contribution: Invited oral presentation</em>. [<a href="https://sites.google.com/iiitkottayam.ac.in/cna-brain-2025/home">Link</a>, <a href="https://www.youtube.com/watch?v=nWo3LeZeL3o">Video</a>]
     <li> <b>8th Mediterranean School of Complex Networks 2023</b>, Catania, Italy. [<a href="https://mediterraneanschoolcomplex.net/2023.html">Link</a>]
     <li> <b>Symposium on Epidemic Modelling 2022</b>, IIT Madras, India; <em>Contribution: Part of organization team</em>. [<a href="https://web.iitm.ac.in/ccsd/workshops/episymp22/index.html">Link</a>]
     <li> <b>NSM Workshop on HPC</b>, IIT Bombay, India. [<a href="https://www.me.iitb.ac.in/~sgopalak/nsmhpccfd2022/">Link</a>]
@@ -54,4 +54,3 @@ My research primarily deals with high-dimensional dynamical systems, particularl
     <li> <b>ACM Winter School on HPC 2019</b>, IIT Kanpur, India. [<a href="https://cse.iitk.ac.in/users/pmalakar/acmwshpc2019.html">Link</a>]
     <li> <b>National Summer School on Statistical Physics 2018</b>, SNBNCBS, Kolkata. [<a href="https://www.bose.res.in/Conferences/NSS2018/">Link</a>]
     </ol>
-    
