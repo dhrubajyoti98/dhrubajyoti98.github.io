@@ -32,6 +32,7 @@ My research primarily deals with high-dimensional dynamical systems, particularl
 
 === "Conferences"
     <ol align="justify" reversed>
+    <li> <b>Platinum Jubilee Conference on Contemporary Physics 2026</b>, IIT Kharagpur, India; <em>Contribution: Poster presentation</em>. [<a href="https://sites.google.com/view/jubilee-conference-physics2026/home">Link</a>]
     <li> <b>Brain Network Dynamics Meeting 2026</b>, Udaipur, India; <em>Contribution: Invited oral presentation</em> & <em>Part of organization team</em>. [<a href="https://braindymeeting.github.io/v2026/">Link</a>]
     <li> <b>Regional Young Investigators' Meeting 2025</b>, Ashoka University, India; <em>Contribution: Poster presentation</em>. [<a href="https://indiabioscience.org/meetings/regional-young-investigators-meeting-delhi-ncr-2024-2025">Link</a>]
     <li> <b>Brain Network Dynamics Meeting 2024</b>, Ashoka University, India. [<a href="https://www.mbbslab.org/braindy-2024">Link</a>]
