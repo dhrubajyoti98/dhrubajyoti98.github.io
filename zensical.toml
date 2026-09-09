@@ -18,6 +18,7 @@ nav = [
    { "Research" = "research.md" },
    { "Teaching" = "teaching.md" },
    { "Others" = "others.md" },
+   { "CV" = "cv.md"},
    { "Contact" = "contact.md"}
 ]
 

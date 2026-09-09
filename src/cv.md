@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-# Detailed CV
+# Curriculum Vitae
 
 <iframe src="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/preview" width="700" height="500" style="border:none;"></iframe>
 
